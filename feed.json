@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/18/nostr-a-nastavenie-vlastnej-domny.html",
+				
+				"content_html": "<p>Nostr a nastavenie <a href=\"https://zwieratko.sk/.well-known/nostr.json\">vlastnej domény</a> sa nakoniec ukazuje byť oveľa väčším orieškom 🤔, než som predpokladal. Po večeroch s tým ďalej bojujem sám. Ak by sa našiel dobrák s nejakou zázračnou radou, veľmi by ma to potešilo 🖖.</p>\n",
+				"content_text": "Nostr a nastavenie [vlastnej domény](https://zwieratko.sk/.well-known/nostr.json) sa nakoniec ukazuje byť oveľa väčším orieškom 🤔, než som predpokladal. Po večeroch s tým ďalej bojujem sám. Ak by sa našiel dobrák s nejakou zázračnou radou, veľmi by ma to potešilo 🖖.\n",
+				"date_published": "2026-02-18T06:30:13+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/18/nostr-a-nastavenie-vlastnej-domny.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/17/al-star-wars-film-the.html",
+				
+				"content_html": "<p>Ďalší Star Wars film, <a href=\"https://www.csfd.sk/film/1481226-star-wars-mandaloria-a-grogu/prehlad/\">The Mandalorian &amp; Grogu</a>, možno už v máji 2026! 🚀 <a href=\"https://www.youtube.com/watch?v=IHWlvwu8t1w\">Druhý trailer</a> vyzerá celkom dobre, len keby tam ešte nejako zakomponovali aj Felicity Jones ❤️.</p>\n",
+				"content_text": "Ďalší Star Wars film, [The Mandalorian & Grogu](https://www.csfd.sk/film/1481226-star-wars-mandaloria-a-grogu/prehlad/), možno už v máji 2026! 🚀 [Druhý trailer](https://www.youtube.com/watch?v=IHWlvwu8t1w) vyzerá celkom dobre, len keby tam ešte nejako zakomponovali aj Felicity Jones ❤️.\n",
+				"date_published": "2026-02-17T21:03:12+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/17/al-star-wars-film-the.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/17/183727.html",
+				
+				"content_html": "<p>🖖👌✌️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🖖👌✌️\n\n<img src=\"uploads/2026/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-17T18:37:27+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/17/183727.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/17/prekrsny-slnen-de-strven-v.html",
+				
+				"content_html": "<p>Prekrásny slnečný deň strávený v zdieľanej kancelárii sa prehupol do druhej polovice. Pracovná únava vrcholí, po káve skúšam ešte čierny čaj – dám to 🖖. O piatej vlak domov a pokračujem v nastavovaní Nostru.</p>\n",
+				"content_text": "Prekrásny slnečný deň strávený v zdieľanej kancelárii sa prehupol do druhej polovice. Pracovná únava vrcholí, po káve skúšam ešte čierny čaj – dám to 🖖. O piatej vlak domov a pokračujem v nastavovaní Nostru.\n",
+				"date_published": "2026-02-17T15:00:24+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/17/prekrsny-slnen-de-strven-v.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/17/cestou-do-prce-kus-tam.html",
+				
+				"content_html": "<p>Cestou do práce kus čítam. Rober L. Kelly - Piaty začiatok, čo nám šesť miliónov rokov ľudskej histórie môže povedať o našej budúcnosti. Veľmi zaujímavé, tak aspoň maličký kúsok tu zacitujem.</p>\n<blockquote>\n<p>Vojna je spojená s materiálnymi podmienkami života. Tieto podmienky môžu vytvárať kultúru násilia, kultúru, ktorá uctieva a odmeňuje úspech v boji, kultúru, ktorá povyšuje mužov - bojovníkov nad ženy. Táto kultúra násilia môže byť zákerná a ťažko prekonateľná, ale neodráža len ľudskú prirodzenosť.</p>\n</blockquote>\n",
+				"content_text": "Cestou do práce kus čítam. Rober L. Kelly - Piaty začiatok, čo nám šesť miliónov rokov ľudskej histórie môže povedať o našej budúcnosti. Veľmi zaujímavé, tak aspoň maličký kúsok tu zacitujem. \n\n> Vojna je spojená s materiálnymi podmienkami života. Tieto podmienky môžu vytvárať kultúru násilia, kultúru, ktorá uctieva a odmeňuje úspech v boji, kultúru, ktorá povyšuje mužov - bojovníkov nad ženy. Táto kultúra násilia môže byť zákerná a ťažko prekonateľná, ale neodráža len ľudskú prirodzenosť. \n",
+				"date_published": "2026-02-17T06:07:39+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/17/cestou-do-prce-kus-tam.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/16/dnes-to-bol-nron-de.html",
 				
 				"content_html": "<p>Dnes to bol náročný deň. Okrem bežného pracovného vyťaženia som zviedol dlhý súboj s validáciou NIP-05 pre Nostr. Po nespočetných pokusoch je výsledok skôr diskutabilný než dobrý, no nevzdávam to a zajtra pokračujem s rovnakou vervou 😉.</p>\n",
@@ -26,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/15/na-zver-da-ete-jeden.html",
 				
 				"content_html": "<p>Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.\n\n\n<img src=\"uploads/2026/img-1210.jpg\" width=\"600\" height=\"450\" alt=\"Rieka s čiastočne zamrznutým povrchom tečie popri ceste za súmraku, keďže obzor osvetľuje svetlo zapadajúceho slnka.\">\n",
+				"content_text": "Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.\n\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-1210.jpg\" width=\"600\" height=\"450\" alt=\"Rieka s čiastočne zamrznutým povrchom tečie popri ceste za súmraku, keďže obzor osvetľuje svetlo zapadajúceho slnka.\">\n",
 				"date_published": "2026-02-15T21:48:07+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/15/na-zver-da-ete-jeden.html"
 			},
