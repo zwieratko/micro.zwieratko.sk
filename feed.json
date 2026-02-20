@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/20/aj-ke-sa-nm-trochu.html",
+				
+				"content_html": "<p>Aj keď sa nám trochu ochladilo ❄️, piatok nám to kompenzuje. 😉 Po práci a cez víkend sa pokúsim nasadiť <a href=\"http://scripting.com/2026/02/12.html#a141758\">FeedLand</a> v <a href=\"https://github.com/scotthansonde/feedlandDockerCompose\">kontajneri</a> na malú VM. Otvorené technológie vládnu všetkým. 🖖</p>\n",
+				"content_text": "Aj keď sa nám trochu ochladilo ❄️, piatok nám to kompenzuje. 😉 Po práci a cez víkend sa pokúsim nasadiť [FeedLand](http://scripting.com/2026/02/12.html#a141758) v [kontajneri](https://github.com/scotthansonde/feedlandDockerCompose) na malú VM. Otvorené technológie vládnu všetkým. 🖖\n",
+				"date_published": "2026-02-20T07:37:26+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/20/aj-ke-sa-nm-trochu.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/19/prv-nstrel-automatizovanho-zverejovania-prspevkov.html",
+				
+				"content_html": "<p>Prvý nástrel automatizovaného zverejňovania príspevkov z <a href=\"https://micro.blog/zwieratko\">Micro.blogu</a> ❤️ na Nostr je hotový. 🚀 Testujem a ladím ho. Súkromný kľúč som nechcel zveriť žiadnej tretej strane, tak som si to skúsil napísať viac-menej sám 😉.</p>\n",
+				"content_text": "Prvý nástrel automatizovaného zverejňovania príspevkov z [Micro.blogu](https://micro.blog/zwieratko) ❤️ na Nostr je hotový. 🚀 Testujem a ladím ho. Súkromný kľúč som nechcel zveriť žiadnej tretej strane, tak som si to skúsil napísať viac-menej sám 😉.\n",
+				"date_published": "2026-02-19T22:09:45+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/19/prv-nstrel-automatizovanho-zverejovania-prspevkov.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/19/nerd-by-som-hne-zrna.html",
 				
 				"content_html": "<p>Nerád by som hneď zrána vyvolával vášne 😉, no vŕta mi v hlave jedna vec: prečo je také ťažké prestať používať tú ruskú ropu? 🤔 Zdá sa, že krajiny, ktoré sa bez nej zaobišli, nemajú o nič drahšie palivá. Alebo mi niečo uniká?</p>\n",
