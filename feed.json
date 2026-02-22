@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/22/vemi-zaujmav-no-zrove-straideln.html",
+				
+				"content_html": "<p>Veľmi zaujímavé, no zároveň strašidelné čítanie na <a href=\"https://hlidacipes.org/lubomir-vejrazka-napeti-roste-dav-se-citi-silnejsi-a-unor-48-se-pripomina/\">HlídacíPes</a> o tom, ako sa súčasné dianie až nápadne podobá na situáciu v roku 1948. Dovolím si zacitovať aspoň jednu vetu:</p>\n<blockquote>\n<p>Chybí nám státníci – vizionáři schopní provést nás úskalími v mlze před námi. Jedni jsou hokynáři bez schopnosti vnímat širší souvislosti, druzí mají vizi autoritářského státu.</p>\n</blockquote>\n",
+				"content_text": "Veľmi zaujímavé, no zároveň strašidelné čítanie na [HlídacíPes](https://hlidacipes.org/lubomir-vejrazka-napeti-roste-dav-se-citi-silnejsi-a-unor-48-se-pripomina/) o tom, ako sa súčasné dianie až nápadne podobá na situáciu v roku 1948. Dovolím si zacitovať aspoň jednu vetu:\n\n> Chybí nám státníci – vizionáři schopní provést nás úskalími v mlze před námi. Jedni jsou hokynáři bez schopnosti vnímat širší souvislosti, druzí mají vizi autoritářského státu.\n",
+				"date_published": "2026-02-22T19:26:14+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/22/vemi-zaujmav-no-zrove-straideln.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/22/oslava-pokrauje-zbava-graduje-feedland.html",
+				
+				"content_html": "<p>Oslava pokračuje. 🥳 Zábava graduje. 🎉 FeedLand stále ladím. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oslava pokračuje. 🥳 Zábava graduje. 🎉 FeedLand stále ladím. 🖖\n\n<img src=\"uploads/2026/840d35e9a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-22T14:57:03+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/22/oslava-pokrauje-zbava-graduje-feedland.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/22/nedea-dnes-mme-celkom-pekn.html",
+				
+				"content_html": "<p>Nedeľa, 22. 2. 2026, dnes máme celkom pekný dátum 😉. Hmmm, ale keď raz nastane 22. 2. 2222 o 22:22:22 UTC (unix timestamp: 7956915742), tak to ešte len bude jazda! 🎉 Prekrásnu nedeľu všetkým 🖖.</p>\n",
+				"content_text": "Nedeľa, 22. 2. 2026, dnes máme celkom pekný dátum 😉. Hmmm, ale keď raz nastane 22. 2. 2222 o 22:22:22 UTC (unix timestamp: 7956915742), tak to ešte len bude jazda! 🎉 Prekrásnu nedeľu všetkým 🖖.\n",
+				"date_published": "2026-02-22T10:56:54+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/22/nedea-dnes-mme-celkom-pekn.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/21/bol-to-sladk-de-a.html",
+				
+				"content_html": "<p>Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖\n\n<img src=\"uploads/2026/d77b3c1072.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-21T22:58:21+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/21/bol-to-sladk-de-a.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/21/feedland-v-kontajneri-be-a.html",
 				
 				"content_html": "<p><a href=\"https://feedland.zwieratko.sk/\">FeedLand v kontajneri</a> beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.</p>\n<!-- raw HTML omitted -->\n",
