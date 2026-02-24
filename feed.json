@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/24/ako-mal-neter-vid-babku.html",
+				
+				"content_html": "<p>Ako malá neter vidí babku 😉.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ako malá neter vidí babku 😉. \n\n<img src=\"uploads/2026/c214335025.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-24T19:54:53+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/24/ako-mal-neter-vid-babku.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/23/dfajme-e-u-s-nablzku.html",
+				
+				"content_html": "<p>Dúfajme, že už sú nablízku opäť teplé a slnečné dni. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dúfajme, že už sú nablízku opäť teplé a slnečné dni. 🖖\n\n<img src=\"uploads/2026/80da74d768.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-23T15:48:33+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/23/dfajme-e-u-s-nablzku.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/23/al-gl-je-to-tam.html",
+				
+				"content_html": "<p>Ďalší gól 🏈, je to tam. Vo <a href=\"https://feedland.zwieratko.sk/\">FeedLand@zwieratko</a> sú úspešne nastavené extra funkcie - “My News Product” a “My Feed”, plus ukladanie dát do S3. A aj upršaný deň ☔️ je krajší. 🖖</p>\n",
+				"content_text": "Ďalší gól 🏈, je to tam. Vo [FeedLand@zwieratko](https://feedland.zwieratko.sk/) sú úspešne nastavené extra funkcie - “My News Product” a “My Feed”, plus ukladanie dát do S3. A aj upršaný deň ☔️ je krajší. 🖖\n",
+				"date_published": "2026-02-23T12:50:31+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/23/al-gl-je-to-tam.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/23/hej-bol-to-najlep-punk.html",
+				
+				"content_html": "<p>„Hej, bol to najlepší punčák na svete, ešte kus ostal 😉. A tak s vervou do ďalšieho pracovného týždňa. 🖖“</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "„Hej, bol to najlepší punčák na svete, ešte kus ostal 😉. A tak s vervou do ďalšieho pracovného týždňa. 🖖“\n\n<img src=\"uploads/2026/b1a6754836.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-23T08:41:57+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/23/hej-bol-to-najlep-punk.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/22/vemi-zaujmav-no-zrove-straideln.html",
 				
 				"content_html": "<p>Veľmi zaujímavé, no zároveň strašidelné čítanie na <a href=\"https://hlidacipes.org/lubomir-vejrazka-napeti-roste-dav-se-citi-silnejsi-a-unor-48-se-pripomina/\">HlídacíPes</a> o tom, ako sa súčasné dianie až nápadne podobá na situáciu v roku 1948. Dovolím si zacitovať aspoň jednu vetu:</p>\n<blockquote>\n<p>Chybí nám státníci – vizionáři schopní provést nás úskalími v mlze před námi. Jedni jsou hokynáři bez schopnosti vnímat širší souvislosti, druzí mají vizi autoritářského státu.</p>\n</blockquote>\n",
@@ -18,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/22/oslava-pokrauje-zbava-graduje-feedland.html",
 				
 				"content_html": "<p>Oslava pokračuje. 🥳 Zábava graduje. 🎉 FeedLand stále ladím. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oslava pokračuje. 🥳 Zábava graduje. 🎉 FeedLand stále ladím. 🖖\n\n<img src=\"uploads/2026/840d35e9a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Oslava pokračuje. 🥳 Zábava graduje. 🎉 FeedLand stále ladím. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/840d35e9a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-22T14:57:03+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/22/oslava-pokrauje-zbava-graduje-feedland.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/21/bol-to-sladk-de-a.html",
 				
 				"content_html": "<p>Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖\n\n<img src=\"uploads/2026/d77b3c1072.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/d77b3c1072.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-21T22:58:21+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/21/bol-to-sladk-de-a.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/21/feedland-v-kontajneri-be-a.html",
 				
 				"content_html": "<p><a href=\"https://feedland.zwieratko.sk/\">FeedLand v kontajneri</a> beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[FeedLand v kontajneri](https://feedland.zwieratko.sk/) beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.\n\n<img src=\"uploads/2026/snimka-obrazovky-2026-02-21-o-16.54.45.png\" width=\"600\" height=\"61\" alt=\"Auto-generated description: Výpis terminálu ukazuje využitie pamäte v systéme vrátane pamäte RAM, swapu a vyrovnávacej pamäte.\">\n",
+				"content_text": "[FeedLand v kontajneri](https://feedland.zwieratko.sk/) beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-21-o-16.54.45.png\" width=\"600\" height=\"61\" alt=\"Auto-generated description: Výpis terminálu ukazuje využitie pamäte v systéme vrátane pamäte RAM, swapu a vyrovnávacej pamäte.\">\n",
 				"date_published": "2026-02-21T17:15:13+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/21/feedland-v-kontajneri-be-a.html"
 			},
@@ -58,7 +90,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/20/zana-sa-to-rsova-feedland.html",
 				
 				"content_html": "<p>Začína sa to rýsovať 👌 <a href=\"https://github.com/scotthansonde/feedlandDockerCompose\">FeedLand v kontajenri</a> na vlastnej doméne 🖖.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Začína sa to rýsovať 👌 [FeedLand v kontajenri](https://github.com/scotthansonde/feedlandDockerCompose) na vlastnej doméne 🖖.\n<img src=\"uploads/2026/image.png\" width=\"600\" height=\"278\" alt=\"Auto-generated description: Dialógové okno obsahuje informácie o adrese servera a verziách softvéru vrátane MySQL, FeedLand Database, FeedLand a FeedLand klienta.\">\n",
+				"content_text": "Začína sa to rýsovať 👌 [FeedLand v kontajenri](https://github.com/scotthansonde/feedlandDockerCompose) na vlastnej doméne 🖖.\n<img src=\"https://eu.uploads.micro.blog/296029/2026/image.png\" width=\"600\" height=\"278\" alt=\"Auto-generated description: Dialógové okno obsahuje informácie o adrese servera a verziách softvéru vrátane MySQL, FeedLand Database, FeedLand a FeedLand klienta.\">\n",
 				"date_published": "2026-02-20T21:02:23+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/20/zana-sa-to-rsova-feedland.html"
 			},
