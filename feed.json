@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/25/bol-to-ak-pracovn-de.html",
+				
+				"content_html": "<p>Bol to ťažký pracovný deň, až do teraz ⏰. Nemám síl viac písať 🥱. Tak aspoň jednu fotku 😉. Krásny večer ešte všetkým. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bol to ťažký pracovný deň, až do teraz ⏰. Nemám síl viac písať 🥱. Tak aspoň jednu fotku 😉. Krásny večer ešte všetkým. 🖖\n\n<img src=\"uploads/2026/d35a293339.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"date_published": "2026-02-25T20:11:34+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/25/bol-to-ak-pracovn-de.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/25/rss-taka-eilmeldung-v-terminli.html",
+				
+				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png\" alt=\"Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.\"></p>\n",
+				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖\n\n![Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.](https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png)\n",
+				"date_published": "2026-02-25T07:41:12+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/25/rss-taka-eilmeldung-v-terminli.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/24/rss-taka-eilmeldung-v-terminli.html",
+				
+				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli 😉.</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png\" alt=\"Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.\"></p>\n",
+				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli 😉.\n\n![Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.](https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png)\n",
+				"date_published": "2026-02-24T22:49:46+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/24/rss-taka-eilmeldung-v-terminli.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/24/ako-mal-neter-vid-babku.html",
 				
 				"content_html": "<p>Ako malá neter vidí babku 😉.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/23/hej-bol-to-najlep-punk.html",
 				
 				"content_html": "<p>„Hej, bol to najlepší punčák na svete, ešte kus ostal 😉. A tak s vervou do ďalšieho pracovného týždňa. 🖖“</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "„Hej, bol to najlepší punčák na svete, ešte kus ostal 😉. A tak s vervou do ďalšieho pracovného týždňa. 🖖“\n\n<img src=\"uploads/2026/b1a6754836.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "„Hej, bol to najlepší punčák na svete, ešte kus ostal 😉. A tak s vervou do ďalšieho pracovného týždňa. 🖖“\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b1a6754836.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-23T08:41:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/23/hej-bol-to-najlep-punk.html"
 			},
