@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/26/a-al-de-sa-chli.html",
+				
+				"content_html": "<p>A ďalší deň sa chýli ku koncu. Pokoj ľudom dobrej vôle. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A ďalší deň sa chýli ku koncu. Pokoj ľudom dobrej vôle. 🖖\n\n<img src=\"uploads/2026/435a06f970.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-26T20:27:33+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/26/a-al-de-sa-chli.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/26/krsa-dnenho-da-dosiahla-u.html",
+				
+				"content_html": "<p>Krása dnešného dňa dosiahla už pred poludním obludné rozmery. Ak to pôjde takto ďalej, neviem, neviem. 🤔 Lebo toto už nie sú len náznaky jari 🌸, to je jar v plnom prúde, to je priamo jar online. 🖖</p>\n",
+				"content_text": "Krása dnešného dňa dosiahla už pred poludním obludné rozmery. Ak to pôjde takto ďalej, neviem, neviem. 🤔 Lebo toto už nie sú len náznaky jari 🌸, to je jar v plnom prúde, to je priamo jar online. 🖖\n",
+				"date_published": "2026-02-26T14:56:13+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/26/krsa-dnenho-da-dosiahla-u.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/26/nov-vydania-skvostov-softvrovho-neba.html",
+				"title": "Nové vydania skvostov softvérového neba.",
+				"content_html": "<p>Tento týždeň bol celkom plodný na nové vydania fajných programov. Zhrniem to len tak z rýchlika.</p>\n<p>Skoro úplne najlepší poznámkový blok Joplin bol povýšený na verziu <a href=\"https://github.com/laurent22/joplin/releases/tag/v3.5.13\">3.5.13</a>, generátor statických stránok Hugo, čo si len ťažko hľadá sebe rovného, prichádza vo verzii <a href=\"https://github.com/gohugoio/hugo/releases/tag/v0.157.0\">0.157.0</a> a webový server Caddy, ktorý zásadne zjednodušil prácu s HTTPS, vyšiel vo verzii <a href=\"https://github.com/caddyserver/caddy/releases/tag/v2.11.1\">2.11.1</a>.</p>\n<p>Tak hor sa do čítania oznámení o vydaní a pomaly sa začneme pripravovať na aktualizačný proces. Nech nás Sila sprevádza. 🖖</p>\n",
+				"content_text": "Tento týždeň bol celkom plodný na nové vydania fajných programov. Zhrniem to len tak z rýchlika.\n\nSkoro úplne najlepší poznámkový blok Joplin bol povýšený na verziu [3.5.13](https://github.com/laurent22/joplin/releases/tag/v3.5.13), generátor statických stránok Hugo, čo si len ťažko hľadá sebe rovného, prichádza vo verzii [0.157.0](https://github.com/gohugoio/hugo/releases/tag/v0.157.0) a webový server Caddy, ktorý zásadne zjednodušil prácu s HTTPS, vyšiel vo verzii [2.11.1](https://github.com/caddyserver/caddy/releases/tag/v2.11.1).\n\nTak hor sa do čítania oznámení o vydaní a pomaly sa začneme pripravovať na aktualizačný proces. Nech nás Sila sprevádza. 🖖\n",
+				"date_published": "2026-02-26T07:33:26+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/26/nov-vydania-skvostov-softvrovho-neba.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/02/26/briedenie-kad-de-nov-zaiatok.html",
+				"title": "Brieždenie — každý deň nový začiatok.",
+				"content_html": "<p>Svitanie prichádza skôr a skôr, dnes už o 5:48 😉, každý deň zhruba o dve-tri minúty včasnejšie. Jar sa už nezadržateľne blíži 🌸 a to mi dodáva novú silu. Teším sa, veľmi. Prekrásny deň všetkým. 🖖</p>\n",
+				"content_text": "Svitanie prichádza skôr a skôr, dnes už o 5:48 😉, každý deň zhruba o dve-tri minúty včasnejšie. Jar sa už nezadržateľne blíži 🌸 a to mi dodáva novú silu. Teším sa, veľmi. Prekrásny deň všetkým. 🖖\n",
+				"date_published": "2026-02-26T06:20:53+01:00",
+				"url": "https://micro.zwieratko.sk/2026/02/26/briedenie-kad-de-nov-zaiatok.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/25/bol-to-ak-pracovn-de.html",
 				
 				"content_html": "<p>Bol to ťažký pracovný deň, až do teraz ⏰. Nemám síl viac písať 🥱. Tak aspoň jednu fotku 😉. Krásny večer ešte všetkým. 🖖</p>\n<!-- raw HTML omitted -->\n",
@@ -17,16 +49,16 @@
 			{
 				"id": "http://zwieratko.micro.blog/2026/02/25/rss-taka-eilmeldung-v-terminli.html",
 				
-				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png\" alt=\"Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.\"></p>\n",
-				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖\n\n![Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.](https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png)\n",
+				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖</p>\n<p><img src=\"https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png\" alt=\"Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.\"></p>\n",
+				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli. Bude zrejme chvíľu trvať, kým sa s ňou naučím pracovať, ale programy v termináli majú svoje čaro 😉. Sú rýchle a ľahko prenosné medzi operačnými systémami. 🖖\n\n![Snímka obrazovky zobrazuje terminál s RSS čítačkou eilmeldung, kde je zobrazený príspevok z odoberaného kanálu a v bočnom paneli sú zobrazené RSS kanály.](https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-25-o-7.27.49.png)\n",
 				"date_published": "2026-02-25T07:41:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/25/rss-taka-eilmeldung-v-terminli.html"
 			},
 			{
 				"id": "http://zwieratko.micro.blog/2026/02/24/rss-taka-eilmeldung-v-terminli.html",
 				
-				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli 😉.</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png\" alt=\"Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.\"></p>\n",
-				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli 😉.\n\n![Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.](https://micro.zwieratko.sk/uploads/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png)\n",
+				"content_html": "<p>RSS čítačka <a href=\"https://github.com/christo-auer/eilmeldung\">eilmeldung</a> v termináli 😉.</p>\n<p><img src=\"https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png\" alt=\"Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.\"></p>\n",
+				"content_text": "RSS čítačka [eilmeldung](https://github.com/christo-auer/eilmeldung) v termináli 😉.\n\n![Auto-generated description: Na obrazovke je zobrazená aplikácia na čítanie noviniek, s viacerými kanálmi a zvýrazneným článkom o Apple pripravujúcom výrobu Mac Mini v Houstone.](https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-24-o-22.45.19.png)\n",
 				"date_published": "2026-02-24T22:49:46+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/24/rss-taka-eilmeldung-v-terminli.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/24/ako-mal-neter-vid-babku.html",
 				
 				"content_html": "<p>Ako malá neter vidí babku 😉.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ako malá neter vidí babku 😉. \n\n<img src=\"uploads/2026/c214335025.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ako malá neter vidí babku 😉. \n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/c214335025.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-24T19:54:53+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/24/ako-mal-neter-vid-babku.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/23/dfajme-e-u-s-nablzku.html",
 				
 				"content_html": "<p>Dúfajme, že už sú nablízku opäť teplé a slnečné dni. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dúfajme, že už sú nablízku opäť teplé a slnečné dni. 🖖\n\n<img src=\"uploads/2026/80da74d768.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Dúfajme, že už sú nablízku opäť teplé a slnečné dni. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/80da74d768.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-02-23T15:48:33+01:00",
 				"url": "https://micro.zwieratko.sk/2026/02/23/dfajme-e-u-s-nablzku.html"
 			},
