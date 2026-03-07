@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/07/vemi-zaujmav-lnok-o-ete.html",
+				
+				"content_html": "<p>Veľmi zaujímavý článok o ešte zaujímavejšej štúdii 😉, s priam netradičným pohľadom na vec: <a href=\"https://sciencemag.cz/21-ditete-na-zenu-je-jen-cislo-a-nizka-porodnost-nemusi-byt-ekonomickou-hrozbou/\">2,1 dítěte na ženu je jen číslo a nízká porodnost nemusí být ekonomickou hrozbou</a>.</p>\n<p>Hádam môžem štipku zacitovať z článku:</p>\n<blockquote>\n<p>Ekonomická udržitelnost závisí více na populační struktuře než na velikosti populace. Vyšší úroveň vzdělání, vyšší účast na trhu práce a rostoucí produktivita mohou vyvážit – a dokonce převážit – dopady nižší porodnosti. Nižší porodnost může umožnit větší investice na jedno dítě, posílit lidský kapitál a inovace.</p>\n</blockquote>\n<p>Prekrásnu sobotu všetkým! 🖖</p>\n",
+				"content_text": "Veľmi zaujímavý článok o ešte zaujímavejšej štúdii 😉, s priam netradičným pohľadom na vec: [2,1 dítěte na ženu je jen číslo a nízká porodnost nemusí být ekonomickou hrozbou](https://sciencemag.cz/21-ditete-na-zenu-je-jen-cislo-a-nizka-porodnost-nemusi-byt-ekonomickou-hrozbou/).\n\nHádam môžem štipku zacitovať z článku:\n> Ekonomická udržitelnost závisí více na populační struktuře než na velikosti populace. Vyšší úroveň vzdělání, vyšší účast na trhu práce a rostoucí produktivita mohou vyvážit – a dokonce převážit – dopady nižší porodnosti. Nižší porodnost může umožnit větší investice na jedno dítě, posílit lidský kapitál a inovace.\n\nPrekrásnu sobotu všetkým! 🖖\n",
+				"date_published": "2026-03-07T08:40:42+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/07/vemi-zaujmav-lnok-o-ete.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/06/jasn-mesiac-bdie-skor-rno.html",
+				
+				"content_html": "<p>jasný mesiac bdie<br>\nskoré ráno v tichu spí<br>\nnový deň vstáva</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "jasný mesiac bdie  \nskoré ráno v tichu spí  \nnový deň vstáva \n\n<img src=\"uploads/2026/ea47f81255.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-06T11:34:16+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/06/jasn-mesiac-bdie-skor-rno.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/06/mme-piatok-hlavn-de-tda.html",
+				
+				"content_html": "<p>Máme piatok, hlavný deň týždňa. Počasie vyzerá, že bude opäť nádherné, tak hor sa do práce! 😉 🖖</p>\n",
+				"content_text": "Máme piatok, hlavný deň týždňa. Počasie vyzerá, že bude opäť nádherné, tak hor sa do práce! 😉 🖖\n",
+				"date_published": "2026-03-06T07:00:42+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/06/mme-piatok-hlavn-de-tda.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/05/vemi-zaujmav-a-plne-nov.html",
 				
 				"content_html": "<p>Veľmi zaujímavý a úplne nový kúsok, ktorý by mohol nahradiť screen/tmux - <a href=\"https://github.com/mobydeck/atch\">atch</a>. Bez všakovakých čačiek-mačiek. Vážne určený na jedinú vec: aby som sa mohol bezpečne odpojiť a neskôr znova pripojiť k terminálovej „session“. Bez terminálovej emulácie, čisté a transparentné.</p>\n",
