@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
+				
+				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-08T14:55:12+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/08/miera-blahobytu-dosiahla-v-naom.html",
+				
+				"content_html": "<p>Miera blahobytu dosiahla v našom meste impozantné rozmery, výtlky tu vypchávame ručne tkanými kobercami z tej najjemnejšej priadze z vlny bájnych oranžových jednorožcov z Národného parku Poloniny.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Miera blahobytu dosiahla v našom meste impozantné rozmery, výtlky tu vypchávame ručne tkanými kobercami z tej najjemnejšej priadze z vlny bájnych oranžových jednorožcov z Národného parku Poloniny.\n\n<img src=\"uploads/2026/2fd01a5ee4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-08T07:19:44+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/08/miera-blahobytu-dosiahla-v-naom.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/07/kukm-star-trek-akadmia-hviezdnej.html",
+				
+				"content_html": "<p>Kukám <a href=\"https://www.csfd.sk/film/1336758-star-trek-akademia-hviezdnej-flotily/prehlad/\">Star Trek: Akadémia Hviezdnej flotily</a> a mne sa to celkom páči, nech si vraví/píše, kto čo chce. Žite dlho a blažene! 🖖</p>\n",
+				"content_text": "Kukám [Star Trek: Akadémia Hviezdnej flotily](https://www.csfd.sk/film/1336758-star-trek-akademia-hviezdnej-flotily/prehlad/) a mne sa to celkom páči, nech si vraví/píše, kto čo chce. Žite dlho a blažene! 🖖\n",
+				"date_published": "2026-03-07T20:21:33+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/07/kukm-star-trek-akadmia-hviezdnej.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/07/sedmokrska-obyajn-bellis-perennis-v.html",
+				
+				"content_html": "<p>Sedmokráska obyčajná (Bellis perennis) - v jednoduchosti spočíva krása 🖖.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sedmokráska obyčajná (Bellis perennis) - v jednoduchosti spočíva krása 🖖. \n\n<img src=\"uploads/2026/e70aeacd1f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-07T14:33:47+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/07/sedmokrska-obyajn-bellis-perennis-v.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/07/vemi-zaujmav-lnok-o-ete.html",
 				
 				"content_html": "<p>Veľmi zaujímavý článok o ešte zaujímavejšej štúdii 😉, s priam netradičným pohľadom na vec: <a href=\"https://sciencemag.cz/21-ditete-na-zenu-je-jen-cislo-a-nizka-porodnost-nemusi-byt-ekonomickou-hrozbou/\">2,1 dítěte na ženu je jen číslo a nízká porodnost nemusí být ekonomickou hrozbou</a>.</p>\n<p>Hádam môžem štipku zacitovať z článku:</p>\n<blockquote>\n<p>Ekonomická udržitelnost závisí více na populační struktuře než na velikosti populace. Vyšší úroveň vzdělání, vyšší účast na trhu práce a rostoucí produktivita mohou vyvážit – a dokonce převážit – dopady nižší porodnosti. Nižší porodnost může umožnit větší investice na jedno dítě, posílit lidský kapitál a inovace.</p>\n</blockquote>\n<p>Prekrásnu sobotu všetkým! 🖖</p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/06/jasn-mesiac-bdie-skor-rno.html",
 				
 				"content_html": "<p>jasný mesiac bdie<br>\nskoré ráno v tichu spí<br>\nnový deň vstáva</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "jasný mesiac bdie  \nskoré ráno v tichu spí  \nnový deň vstáva \n\n<img src=\"uploads/2026/ea47f81255.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "jasný mesiac bdie  \nskoré ráno v tichu spí  \nnový deň vstáva \n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/ea47f81255.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-06T11:34:16+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/06/jasn-mesiac-bdie-skor-rno.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/04/prekrsny-veer-pokoj-a-aj.html",
 				
 				"content_html": "<p>Prekrásny večer, pokoj a aj dobrú noc. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prekrásny večer, pokoj a aj dobrú noc. 🖖\n\n<img src=\"uploads/2026/e1077a573b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Prekrásny večer, pokoj a aj dobrú noc. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/e1077a573b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-04T21:30:30+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/04/prekrsny-veer-pokoj-a-aj.html"
 			},
@@ -58,7 +90,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/04/idem-sprobova-svetlopraen-etipiu-od.html",
 				
 				"content_html": "<p>Idem sprobovať svetlopraženú “Etiópiu” od košickej pražiarne Friday Coffee Roastery. Som ich pravidelný utorkový zákazník 😉. Prekrásny deň všetkým! 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Idem sprobovať svetlopraženú “Etiópiu” od košickej pražiarne Friday Coffee Roastery. Som ich pravidelný utorkový zákazník 😉. Prekrásny deň všetkým! 🖖\n\n<img src=\"uploads/2026/1409b026fc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Idem sprobovať svetlopraženú “Etiópiu” od košickej pražiarne Friday Coffee Roastery. Som ich pravidelný utorkový zákazník 😉. Prekrásny deň všetkým! 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1409b026fc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-04T06:59:16+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/04/idem-sprobova-svetlopraen-etipiu-od.html"
 			},
@@ -66,7 +98,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/03/u-oskoro-doma.html",
 				
 				"content_html": "<p>Už čoskoro doma. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Už čoskoro doma. 🖖\n\n<img src=\"uploads/2026/fc23d6faff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Už čoskoro doma. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/fc23d6faff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-03T18:36:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/03/u-oskoro-doma.html"
 			},
