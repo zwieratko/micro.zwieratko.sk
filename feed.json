@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/17/dnes-to-bol-jeden-dokonen.html",
+				
+				"content_html": "<p>Dnes to bol jeden dokončený Ansible playbook a začatá práca na novom Grafana dashboarde. Uf, celkom plodný deň v zdieľanom kancli. Ešte cesta vlakom a bude porobené. 🖖</p>\n",
+				"content_text": "Dnes to bol jeden dokončený Ansible playbook a začatá práca na novom Grafana dashboarde. Uf, celkom plodný deň v zdieľanom kancli. Ešte cesta vlakom a bude porobené. 🖖\n",
+				"date_published": "2026-03-17T17:31:46+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/17/dnes-to-bol-jeden-dokonen.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/16/m-tdium-zkladov-informatiky-v.html",
+				"title": "Má štúdium základov informatiky v ére AI stále zmysel?",
+				"content_html": "<p>Narazil som na nesmierne zaujímavú diskusiu o výsostne aktuálnej téme — či je ešte potrebné štúdium základov počítačovej vedy v čase masívneho nasadzovania AI: <a href=\"https://news.ycombinator.com/item?id=47394291\">AI tools are making me lose interest in CS fundamentals</a>.</p>\n<p>Časť jednej odpovede ma skutočne oslovila:</p>\n<blockquote>\n<p>Knowing fundamentals gives you deeper intuition about the technology, at every layer. When compilers appeared, you no longer needed to understand assembly and registers. But knowing how assembly and registers actually work makes you better at C. When Python came along, low-level languages felt unnecessary. But understanding C&rsquo;s memory management is what lets you understand Python&rsquo;s limitations. Now LLMs write the implementation. LLMs abstract away the code. But knowing how algorithms work, even in a high-level language like Python, is exactly how you catch LLM mistakes and inefficiencies.</p>\n</blockquote>\n<p>Stále platí: ak chceme nájsť „ghost in the shell“, musíme rozumieť tomu, ako ten stroj funguje. 🖖</p>\n",
+				"content_text": "Narazil som na nesmierne zaujímavú diskusiu o výsostne aktuálnej téme — či je ešte potrebné štúdium základov počítačovej vedy v čase masívneho nasadzovania AI: [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291).\n\nČasť jednej odpovede ma skutočne oslovila:\n\n> Knowing fundamentals gives you deeper intuition about the technology, at every layer. When compilers appeared, you no longer needed to understand assembly and registers. But knowing how assembly and registers actually work makes you better at C. When Python came along, low-level languages felt unnecessary. But understanding C's memory management is what lets you understand Python's limitations. Now LLMs write the implementation. LLMs abstract away the code. But knowing how algorithms work, even in a high-level language like Python, is exactly how you catch LLM mistakes and inefficiencies.\n\nStále platí: ak chceme nájsť „ghost in the shell“, musíme rozumieť tomu, ako ten stroj funguje. 🖖\n",
+				"date_published": "2026-03-16T07:38:20+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/16/m-tdium-zkladov-informatiky-v.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/15/niektor-zvieratk-s-lepie-ako.html",
 				
 				"content_html": "<p>Niektoré zvieratká sú lepšie ako niektorí ľudia. 🖖</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/13/shinkansen.html",
 				
 				"content_html": "<p>Shinkansen 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shinkansen 🖖\n\n<img src=\"uploads/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Shinkansen 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T20:24:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/13/shinkansen.html"
 			},
@@ -90,7 +106,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
 				
 				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-08T14:55:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
 			},
