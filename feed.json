@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/19/neverili-by-ste-ak-tnist.html",
+				
+				"content_html": "<p>Neverili by ste, aká tŕnistá môže byť cesta k splneniu aj na prvý pohľad banálnej úlohy v macOS. Chcel som len otvoriť tri terminálové relácie, každú vo vlastnom okne s danými rozmermi, a tie umiestniť na konkrétne pozície na ploche.</p>\n<blockquote>\n<p>Per aspera ad astra.</p>\n</blockquote>\n<p>Vážne som sa pri tom zapotil. Po natívnom Termináli som vyskúšal kitty aj Ghostty, až som sa nakoniec vrátil k iTerm2 a vyriešil to cez <a href=\"https://gist.github.com/zwieratko/b4d6c88a31bdff03bac819df42befac1\">AppleScript</a>. 🖖</p>\n",
+				"content_text": "Neverili by ste, aká tŕnistá môže byť cesta k splneniu aj na prvý pohľad banálnej úlohy v macOS. Chcel som len otvoriť tri terminálové relácie, každú vo vlastnom okne s danými rozmermi, a tie umiestniť na konkrétne pozície na ploche.\n\n> Per aspera ad astra.\n\nVážne som sa pri tom zapotil. Po natívnom Termináli som vyskúšal kitty aj Ghostty, až som sa nakoniec vrátil k iTerm2 a vyriešil to cez [AppleScript](https://gist.github.com/zwieratko/b4d6c88a31bdff03bac819df42befac1). 🖖\n",
+				"date_published": "2026-03-19T17:00:34+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/19/neverili-by-ste-ak-tnist.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/18/bli-sa-aj-tret-diel.html",
+				
+				"content_html": "<p>Blíži sa aj tretí diel Duny — <a href=\"https://www.youtube.com/watch?v=3_9vCamtuPY\">Dune: Part Three</a>, do kín príde zrejme až na Vianoce, čo ešte chvíľu potrvá, ale upútavka vyzerá celkom lákavo už teraz. Máme sa na čo tešiť a ja mám taký pocit, že si knihy prečítam ešte raz 😉, pretože dobrých kníh nie je nikdy dosť. Prekrásnu stredu 🖖.</p>\n",
+				"content_text": "Blíži sa aj tretí diel Duny — [Dune: Part Three](https://www.youtube.com/watch?v=3_9vCamtuPY), do kín príde zrejme až na Vianoce, čo ešte chvíľu potrvá, ale upútavka vyzerá celkom lákavo už teraz. Máme sa na čo tešiť a ja mám taký pocit, že si knihy prečítam ešte raz 😉, pretože dobrých kníh nie je nikdy dosť. Prekrásnu stredu 🖖.\n",
+				"date_published": "2026-03-18T07:43:30+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/18/bli-sa-aj-tret-diel.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/17/vo-vlaku-som-si-doprial.html",
+				
+				"content_html": "<p>Vo vlaku som si doprial zopár stránok z vynikajúcej knihy: Brian Cox / Jeff Forshaw — Čierne diery: kľúč k pochopeniu vesmíru.</p>\n<p>Aspoň kúsok odseku zacitujem:</p>\n<blockquote>\n<p>Skúste si predstaviť, že zovriete v dlaniach maximálne rozšírenú Schwarzschildovu čiernu dieru s nízkou hmotnosťou. Jej horizontom by bola malička dokonalá guľa, ale v zovretých rukách by ste pri tom držali nekonečný iný vesmír.</p>\n</blockquote>\n<p>Čistá a dokonalá krása. Knihu som dostal od mamky k päťdesiatke. Pokoj ľuďom dobrej vôle. 🖖</p>\n",
+				"content_text": "Vo vlaku som si doprial zopár stránok z vynikajúcej knihy: Brian Cox / Jeff Forshaw — Čierne diery: kľúč k pochopeniu vesmíru.\n\nAspoň kúsok odseku zacitujem:\n\n> Skúste si predstaviť, že zovriete v dlaniach maximálne rozšírenú Schwarzschildovu čiernu dieru s nízkou hmotnosťou. Jej horizontom by bola malička dokonalá guľa, ale v zovretých rukách by ste pri tom držali nekonečný iný vesmír. \n\nČistá a dokonalá krása. Knihu som dostal od mamky k päťdesiatke. Pokoj ľuďom dobrej vôle. 🖖\n",
+				"date_published": "2026-03-17T18:18:32+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/17/vo-vlaku-som-si-doprial.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/17/dnes-to-bol-jeden-dokonen.html",
 				
 				"content_html": "<p>Dnes to bol jeden dokončený Ansible playbook a začatá práca na novom Grafana dashboarde. Uf, celkom plodný deň v zdieľanom kancli. Ešte cesta vlakom a bude porobené. 🖖</p>\n",
@@ -34,7 +58,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/14/dnes-spene-otestovan-dve-vzorky.html",
 				
 				"content_html": "<p>Dnes úspešne otestované dve vzorky od prešovskej <a href=\"https://spojkaroastery.com/\">spojky</a>. Lakocinky. ☕️❤️🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dnes úspešne otestované dve vzorky od prešovskej [spojky](https://spojkaroastery.com/). Lakocinky. ☕️❤️🖖\n\n<img src=\"uploads/2026/414fef9031.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Dnes úspešne otestované dve vzorky od prešovskej [spojky](https://spojkaroastery.com/). Lakocinky. ☕️❤️🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/414fef9031.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T21:21:50+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/14/dnes-spene-otestovan-dve-vzorky.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/14/z-festivalu-kva-aj-okolda.html",
 				
 				"content_html": "<p>Z <a href=\"https://www.kavacajcokolada.sk/\">Festivalu káva čaj čokoláda</a> som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne <a href=\"https://www.ker.am/\">ker.am</a>. Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"uploads/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T10:35:17+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/14/z-festivalu-kva-aj-okolda.html"
 			},
@@ -50,7 +74,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/13/shinkansen.html",
 				
 				"content_html": "<p>Shinkansen 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shinkansen 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Shinkansen 🖖\n\n<img src=\"uploads/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T20:24:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/13/shinkansen.html"
 			},
@@ -106,7 +130,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
 				
 				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yggdrasil 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-08T14:55:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
 			},
