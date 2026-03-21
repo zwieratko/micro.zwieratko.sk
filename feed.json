@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/22/mac-mini-m-opencode-litellm.html",
+				
+				"content_html": "<p>Mac Mini M4: OpenCode -&gt; LiteLLM -&gt; LM Studio (qwen/qwen2.5-coder-14b) 🖖</p>\n",
+				"content_text": "Mac Mini M4: OpenCode -> LiteLLM -> LM Studio (qwen/qwen2.5-coder-14b) 🖖\n",
+				"date_published": "2026-03-22T00:01:58+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/22/mac-mini-m-opencode-litellm.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/20/popri-tom-vetkom-pozitvnom-dnes.html",
+				
+				"content_html": "<p>Popri tom všetkom pozitívnom dnes ešte jedna lahôdka: v kine pôjde <a href=\"https://www.csfd.cz/sk/film/1018007-posledna-sanca/prehlad/\">Posledná šanca</a> a vyzerá to veľmi lákavo. Takže večer hor sa do kina! 🖖</p>\n",
+				"content_text": "Popri tom všetkom pozitívnom dnes ešte jedna lahôdka: v kine pôjde [Posledná šanca](https://www.csfd.cz/sk/film/1018007-posledna-sanca/prehlad/) a vyzerá to veľmi lákavo. Takže večer hor sa do kina! 🖖\n",
+				"date_published": "2026-03-20T08:28:43+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/20/popri-tom-vetkom-pozitvnom-dnes.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/20/dnes-ns-ak-vek-udalos.html",
+				
+				"content_html": "<p>Dnes nás čaká veľká udalosť: prvý jarný deň! ❤️ Už čoskoro. Presne o 15:45 miestneho času, podľa údajov Inštitútu pre nebeskú mechaniku a výpočet efemérid <a href=\"https://ssp.imcce.fr/forms/seasons\">IMCCE</a>, nastane ten okamih a začne sa najkrajšie ročné obdobie — jar. A navyše je aj piatok, no proste nádhera. 🖖</p>\n",
+				"content_text": "Dnes nás čaká veľká udalosť: prvý jarný deň! ❤️ Už čoskoro. Presne o 15:45 miestneho času, podľa údajov Inštitútu pre nebeskú mechaniku a výpočet efemérid [IMCCE](https://ssp.imcce.fr/forms/seasons), nastane ten okamih a začne sa najkrajšie ročné obdobie — jar. A navyše je aj piatok, no proste nádhera. 🖖\n",
+				"date_published": "2026-03-20T06:26:51+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/20/dnes-ns-ak-vek-udalos.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/19/lnok-v-dennku-the-guardian.html",
+				
+				"content_html": "<p>Článok v denníku the Guardian o <a href=\"https://www.theguardian.com/world/commentisfree/2026/mar/17/trump-is-aiming-for-dictatorship-thats-the-verdict-of-the-worlds-most-credible-democracy-watchdog\">úpadku demokracie v USA</a>, no najmä v ňom spomínaná výročná správa inštitútu V-Dem o <a href=\"https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf\">stave demokracie</a> vo svete je skutočne smutným svedectvom o blížiacej sa temnote.</p>\n<blockquote>\n<p>The US is no longer a democracy. One of the most credible global sources on the health of democratic nations now says this outright. The V-Dem Institute reaches the alarming conclusion in its annual report, that the US is hurtling towards autocracy at a faster rate than Hungary and Turkey.</p>\n</blockquote>\n<p>Som však neskonale šťastný, že som mohol zažiť krásu liberálnej demokracie v jej najväčšom rozpuku. 🖖</p>\n",
+				"content_text": "Článok v denníku the Guardian o [úpadku demokracie v USA](https://www.theguardian.com/world/commentisfree/2026/mar/17/trump-is-aiming-for-dictatorship-thats-the-verdict-of-the-worlds-most-credible-democracy-watchdog), no najmä v ňom spomínaná výročná správa inštitútu V-Dem o [stave demokracie](https://www.v-dem.net/documents/75/V-Dem_Institute_Democracy_Report_2026_lowres.pdf) vo svete je skutočne smutným svedectvom o blížiacej sa temnote.\n\n> The US is no longer a democracy. One of the most credible global sources on the health of democratic nations now says this outright. The V-Dem Institute reaches the alarming conclusion in its annual report, that the US is hurtling towards autocracy at a faster rate than Hungary and Turkey.\n\nSom však neskonale šťastný, že som mohol zažiť krásu liberálnej demokracie v jej najväčšom rozpuku. 🖖\n",
+				"date_published": "2026-03-19T17:58:44+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/19/lnok-v-dennku-the-guardian.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/19/neverili-by-ste-ak-tnist.html",
 				
 				"content_html": "<p>Neverili by ste, aká tŕnistá môže byť cesta k splneniu aj na prvý pohľad banálnej úlohy v macOS. Chcel som len otvoriť tri terminálové relácie, každú vo vlastnom okne s danými rozmermi, a tie umiestniť na konkrétne pozície na ploche.</p>\n<blockquote>\n<p>Per aspera ad astra.</p>\n</blockquote>\n<p>Vážne som sa pri tom zapotil. Po natívnom Termináli som vyskúšal kitty aj Ghostty, až som sa nakoniec vrátil k iTerm2 a vyriešil to cez <a href=\"https://gist.github.com/zwieratko/b4d6c88a31bdff03bac819df42befac1\">AppleScript</a>. 🖖</p>\n",
@@ -50,7 +82,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/15/niektor-zvieratk-s-lepie-ako.html",
 				
 				"content_html": "<p>Niektoré zvieratká sú lepšie ako niektorí ľudia. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Niektoré zvieratká sú lepšie ako niektorí ľudia. 🖖\n\n<img src=\"uploads/2026/15c4d9eca9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Niektoré zvieratká sú lepšie ako niektorí ľudia. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/15c4d9eca9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-15T16:59:11+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/15/niektor-zvieratk-s-lepie-ako.html"
 			},
@@ -66,7 +98,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/14/z-festivalu-kva-aj-okolda.html",
 				
 				"content_html": "<p>Z <a href=\"https://www.kavacajcokolada.sk/\">Festivalu káva čaj čokoláda</a> som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne <a href=\"https://www.ker.am/\">ker.am</a>. Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"uploads/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T10:35:17+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/14/z-festivalu-kva-aj-okolda.html"
 			},
@@ -74,7 +106,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/13/shinkansen.html",
 				
 				"content_html": "<p>Shinkansen 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shinkansen 🖖\n\n<img src=\"uploads/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Shinkansen 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T20:24:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/13/shinkansen.html"
 			},
@@ -130,7 +162,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
 				
 				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-08T14:55:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
 			},
