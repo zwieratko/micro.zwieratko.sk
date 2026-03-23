@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/23/zludnosti-psania-na-slovenskej-macos.html",
+				
+				"content_html": "<p>Záludnosti písania na slovenskej macOS klávesnici.</p>\n<blockquote>\n<p>Dizajn nie je len to, ako vec vyzerá a pôsobí. Dizajn je to, ako tá vec funguje.\n— Steve Jobs.</p>\n</blockquote>\n<p>Nie je to až také hrozné, ale neviem si na to zvyknúť. Ak chcem zakomentovať označený blok textu napríklad v editore <strong>VS Code</strong>, tak na medzinárodnej klávesnici je to kombinácia dvoch klávesov <code>cmd + /</code>, no na slovenskej je to kombinácia až troch: <code>cmd + shift + ú</code>.</p>\n<p>No a podobne aj v editore <strong>Zed</strong>: <code>cmd + ‘</code> -&gt; <code>cmd + option + §</code>.</p>\n",
+				"content_text": "Záludnosti písania na slovenskej macOS klávesnici.\n\n>Dizajn nie je len to, ako vec vyzerá a pôsobí. Dizajn je to, ako tá vec funguje. \n— Steve Jobs.\n\nNie je to až také hrozné, ale neviem si na to zvyknúť. Ak chcem zakomentovať označený blok textu napríklad v editore **VS Code**, tak na medzinárodnej klávesnici je to kombinácia dvoch klávesov `cmd + /`, no na slovenskej je to kombinácia až troch: `cmd + shift + ú`.\n\nNo a podobne aj v editore **Zed**: `cmd + ‘` -> `cmd + option + §`.\n\n",
+				"date_published": "2026-03-23T13:29:56+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/23/zludnosti-psania-na-slovenskej-macos.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/22/mac-mini-m-opencode-litellm.html",
 				
 				"content_html": "<p>Mac Mini M4: OpenCode -&gt; LiteLLM -&gt; LM Studio (qwen/qwen2.5-coder-14b) 🖖</p>\n",
