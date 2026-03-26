@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/03/26/ptav-tanie-povanie-o-knihe.html",
+				
+				"content_html": "<p>Pútavé čítanie / počúvanie o knihe <a href=\"https://www.martinus.sk/249495-otazka-viny/kniha\">Karla Jaspersa: Otázka viny</a>, ktoré spracoval <a href=\"https://www.irozhlas.cz/veda-technologie/historie/otazka-viny-karl-jaspers-nabidl-po-valce-lidstvu-i-nemecku-zpusob-jak-se_2603252322_kvr\">Český rozhlas</a>. Knihu si pridávam na zoznam “Ešte tento rok”.</p>\n<blockquote>\n<p>Očista je podmienkou našej politickej slobody. Lebo až z vedomia viny vyrastá vedomie solidarity a spoločnej zodpovednosti, bez ktorých nie je sloboda možná. — K. Jaspers</p>\n</blockquote>\n<p>Veľmi by ma zaujímalo, či sa raz aj na Slovensku budeme schopní pozrieť vlastnej histórii do očí?</p>\n",
+				"content_text": "Pútavé čítanie / počúvanie o knihe [Karla Jaspersa: Otázka viny](https://www.martinus.sk/249495-otazka-viny/kniha), ktoré spracoval [Český rozhlas](https://www.irozhlas.cz/veda-technologie/historie/otazka-viny-karl-jaspers-nabidl-po-valce-lidstvu-i-nemecku-zpusob-jak-se_2603252322_kvr). Knihu si pridávam na zoznam “Ešte tento rok”.\n\n> Očista je podmienkou našej politickej slobody. Lebo až z vedomia viny vyrastá vedomie solidarity a spoločnej zodpovednosti, bez ktorých nie je sloboda možná. — K. Jaspers\n\nVeľmi by ma zaujímalo, či sa raz aj na Slovensku budeme schopní pozrieť vlastnej histórii do očí?\n",
+				"date_published": "2026-03-26T07:19:21+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/26/ptav-tanie-povanie-o-knihe.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/25/ete-len-piaty-de-jari.html",
+				
+				"content_html": "<p>Ešte len piaty deň jari a už to takto fičí. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ešte len piaty deň jari a už to takto fičí. 🖖\n\n<img src=\"uploads/2026/d1b745f12a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-25T11:08:47+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/25/ete-len-piaty-de-jari.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/24/prdem-z-vlaku-zapnem-komp.html",
+				
+				"content_html": "<p>Prídem z vlaku, zapnem komp a ľaľa, macOS 26.4 😁🖖.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Prídem z vlaku, zapnem komp a ľaľa, macOS 26.4 😁🖖.\n\n<img src=\"uploads/2026/3a4a983b8c.png\" width=\"600\" height=\"150\" alt=\"\">\n",
+				"date_published": "2026-03-24T19:50:38+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/24/prdem-z-vlaku-zapnem-komp.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/03/23/vaka-za-tip-z-daring.html",
 				
 				"content_html": "<p>Vďaka za tip z <a href=\"https://daringfireball.net/linked/2026/03/23/gasoline-prices-around-the-world\">Daring Fireball</a>. Aktuálne ceny energetických nosičov, vrátane cien <a href=\"https://www.globalpetrolprices.com/gasoline_prices/\">benzínu</a> vo svete, na dennej báze, aj historické údaje a za poplatok dostupné aj cez REST API. 🖖</p>\n",
@@ -122,7 +146,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/14/z-festivalu-kva-aj-okolda.html",
 				
 				"content_html": "<p>Z <a href=\"https://www.kavacajcokolada.sk/\">Festivalu káva čaj čokoláda</a> som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne <a href=\"https://www.ker.am/\">ker.am</a>. Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"uploads/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T10:35:17+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/14/z-festivalu-kva-aj-okolda.html"
 			},
@@ -130,7 +154,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/13/shinkansen.html",
 				
 				"content_html": "<p>Shinkansen 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shinkansen 🖖\n\n<img src=\"uploads/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Shinkansen 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T20:24:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/13/shinkansen.html"
 			},
@@ -186,7 +210,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
 				
 				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-08T14:55:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
 			},
