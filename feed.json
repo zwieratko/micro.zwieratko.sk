@@ -1,11 +1,27 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Rado van Zwieratko",
-	"icon": "https://micro.blog/zwieratko/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://micro.zwieratko.sk/",
 	"feed_url": "https://micro.zwieratko.sk/feed.json",
 	"items": [
 		
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/27/ete-jednu-lakocinku-na-piatkov.html",
+				
+				"content_html": "<p>Ešte jednu lakocinku na piatkový večer. Z fungeľ nového albumu “Play me” od Kim Gordon vypichujem jeden fajny kúsok: <a href=\"https://www.youtube.com/watch?v=gsv6a9RmI28\">Busy bee</a>.</p>\n<p>S ❤️ vybrané pre temných existencialistov s úsmevom na perách. 🖖</p>\n",
+				"content_text": "Ešte jednu lakocinku na piatkový večer. Z fungeľ nového albumu “Play me” od Kim Gordon vypichujem jeden fajny kúsok: [Busy bee](https://www.youtube.com/watch?v=gsv6a9RmI28).\n\nS ❤️ vybrané pre temných existencialistov s úsmevom na perách. 🖖\n",
+				"date_published": "2026-03-27T19:24:23+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/27/ete-jednu-lakocinku-na-piatkov.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/03/27/mm-ju-tem-sa-vaka.html",
+				
+				"content_html": "<p>Mám ju. Teším sa. Vďaka Saška. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mám ju. Teším sa. Vďaka Saška. 🖖\n\n<img src=\"uploads/2026/e921de1033.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-27T18:21:12+01:00",
+				"url": "https://micro.zwieratko.sk/2026/03/27/mm-ju-tem-sa-vaka.html"
+			},
 			{
 				"id": "http://zwieratko.micro.blog/2026/03/27/piatok-mme-tu-piatok-sce.html",
 				
@@ -34,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/24/prdem-z-vlaku-zapnem-komp.html",
 				
 				"content_html": "<p>Prídem z vlaku, zapnem komp a ľaľa, macOS 26.4 😁🖖.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prídem z vlaku, zapnem komp a ľaľa, macOS 26.4 😁🖖.\n\n<img src=\"uploads/2026/3a4a983b8c.png\" width=\"600\" height=\"150\" alt=\"\">\n",
+				"content_text": "Prídem z vlaku, zapnem komp a ľaľa, macOS 26.4 😁🖖.\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/3a4a983b8c.png\" width=\"600\" height=\"150\" alt=\"\">\n",
 				"date_published": "2026-03-24T19:50:38+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/24/prdem-z-vlaku-zapnem-komp.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/23/zlato-v-kadom-skle-budova.html",
 				
 				"content_html": "<p>zlato v každom skle<br>\nbudova dýcha oheň<br>\ntieň už hladká múr</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "zlato v každom skle  \nbudova dýcha oheň  \ntieň už hladká múr \n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/0d6944d31c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "zlato v každom skle  \nbudova dýcha oheň  \ntieň už hladká múr \n\n<img src=\"uploads/2026/0d6944d31c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-23T19:07:16+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/23/zlato-v-kadom-skle-budova.html"
 			},
@@ -154,7 +170,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/14/z-festivalu-kva-aj-okolda.html",
 				
 				"content_html": "<p>Z <a href=\"https://www.kavacajcokolada.sk/\">Festivalu káva čaj čokoláda</a> som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne <a href=\"https://www.ker.am/\">ker.am</a>. Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Z [Festivalu káva čaj čokoláda](https://www.kavacajcokolada.sk/) som si okrem zážitkov z ochutnávania všakovakých šmakôt odniesol aj ručne robený kameninový kalíšok na espresso z dielne [ker.am](https://www.ker.am/). Vlastne dva — ten druhý je ešte menší, tak na ristretto. Káve zdar! ☕️❤️🖖\n\n<img src=\"uploads/2026/c75c218c0c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-14T10:35:17+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/14/z-festivalu-kva-aj-okolda.html"
 			},
@@ -162,7 +178,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/13/shinkansen.html",
 				
 				"content_html": "<p>Shinkansen 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shinkansen 🖖\n\n<img src=\"uploads/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Shinkansen 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/29d6bf5e4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T20:24:57+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/13/shinkansen.html"
 			},
@@ -218,7 +234,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/08/yggdrasil.html",
 				
 				"content_html": "<p>Yggdrasil 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yggdrasil 🖖\n\n<img src=\"uploads/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yggdrasil 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/b8002924f7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-08T14:55:12+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/08/yggdrasil.html"
 			},
