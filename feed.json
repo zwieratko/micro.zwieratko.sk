@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/05/tejto-jari-sa-neviem-do.html",
+				
+				"content_html": "<p>Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖\n\n<img src=\"uploads/2026/9dbabb53f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-05T14:42:51+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/05/tejto-jari-sa-neviem-do.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/04/zmeny-s-nevyhnutn-alebo-lepie.html",
+				
+				"content_html": "<p>Zmeny sú nevyhnutné, alebo lepšie povedané, dejú sa, či sa nám to páči alebo nie. Časť populácie má veľký problém pochopiť práve túto skutočnosť. A ohľadom zmeny prístupu k tvorbe softvéru jeden vynikajúci článok: <a href=\"https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html\">The Cathedral, the Bazaar, and the Winchester Mystery House</a></p>\n<p>Len malý kúsok si dovolím zacitovať:</p>\n<blockquote>\n<p>After Opus 4.5 and recent work enabling Agent Teams, the average net lines added by Claude per commit is now smooth and steady at 1,000 lines of code per commit.</p>\n<p>1,000 lines of code per commit is ~2 magnitudes higher than what a human programmer writes per day.</p>\n</blockquote>\n",
+				"content_text": "Zmeny sú nevyhnutné, alebo lepšie povedané, dejú sa, či sa nám to páči alebo nie. Časť populácie má veľký problém pochopiť práve túto skutočnosť. A ohľadom zmeny prístupu k tvorbe softvéru jeden vynikajúci článok: [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)\n\nLen malý kúsok si dovolím zacitovať:\n\n> After Opus 4.5 and recent work enabling Agent Teams, the average net lines added by Claude per commit is now smooth and steady at 1,000 lines of code per commit.\n>\n> 1,000 lines of code per commit is ~2 magnitudes higher than what a human programmer writes per day.\n",
+				"date_published": "2026-04-04T15:31:34+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/04/zmeny-s-nevyhnutn-alebo-lepie.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/04/cvikla-s-chrenom-naloen-zemiakov.html",
 				
 				"content_html": "<p>Cvikla s chrenom naložená, zemiakový šalát sa chladí, hrudka ešte odkvapkáva. Tak jednu veľkonočnú: The Plastic People of the Universe - <a href=\"https://www.youtube.com/watch?v=23zOHBl85gM&amp;list=RD23zOHBl85gM\">Nebo jití jest Hospodinovo</a> z ich albumu Pašijové hry velikonoční. Prekrásnu Veľkú Noc všetkým ľuďom.</p>\n",
