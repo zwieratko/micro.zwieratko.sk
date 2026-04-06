@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/06/php-u-sce-mnoh-odpisuj.html",
+				
+				"content_html": "<p>PHP už síce mnohí odpisujú, no hádam má ešte stále čo povedať. Tak ak by niekto plánoval prechod na najnovšiu verziu, tak tu je môj zjednodušený postup: <a href=\"https://zwieratko.sk/poznamky/2026/04/aktualizacia-php-na-verziu-8.5/\">Aktualizáciu PHP na verziu 8.5</a>. Kódeniu zdar! 🖖</p>\n",
+				"content_text": "PHP už síce mnohí odpisujú, no hádam má ešte stále čo povedať. Tak ak by niekto plánoval prechod na najnovšiu verziu, tak tu je môj zjednodušený postup: [Aktualizáciu PHP na verziu 8.5](https://zwieratko.sk/poznamky/2026/04/aktualizacia-php-na-verziu-8.5/). Kódeniu zdar! 🖖\n",
+				"date_published": "2026-04-06T15:57:40+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/06/php-u-sce-mnoh-odpisuj.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/05/tejto-jari-sa-neviem-do.html",
 				
 				"content_html": "<p>Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/03/29/kultra-potrebuje-hlas-nie-ticho.html",
 				
 				"content_html": "<blockquote>\n<p>KULTÚRA POTREBUJE HLAS, NIE TICHO.\nPríďte si vypočuť silné literárne myšlienky a svojou prítomnosťou vyjadriť solidaritu s nezávislou kultúrou na Slovensku. — <a href=\"https://knihynakorze.sk/\">Saša</a>.</p>\n</blockquote>\n<p>KEDY: Utorok, 31. marca 2026 o 17:00 hod.<br>\nKDE: okno Kníhkupectva Na korze, Humenné</p>\n<p>Grafika: <a href=\"https://jurajbehun.myportfolio.com/\">Ďuri</a> 😉</p>\n<blockquote>\n<p>Pravda a láska musí zvítězit nad lží a nenávistí — Václav Havel</p>\n</blockquote>\n<p>🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> KULTÚRA POTREBUJE HLAS, NIE TICHO. \n> Príďte si vypočuť silné literárne myšlienky a svojou prítomnosťou vyjadriť solidaritu s nezávislou kultúrou na Slovensku. — [Saša](https://knihynakorze.sk/).\n\nKEDY: Utorok, 31. marca 2026 o 17:00 hod.  \nKDE: okno Kníhkupectva Na korze, Humenné\n\nGrafika: [Ďuri](https://jurajbehun.myportfolio.com/) 😉\n\n> Pravda a láska musí zvítězit nad lží a nenávistí — Václav Havel\n\n🖖\n\n<img src=\"uploads/2026/1830e3cd9d.jpg\">\n",
+				"content_text": "> KULTÚRA POTREBUJE HLAS, NIE TICHO. \n> Príďte si vypočuť silné literárne myšlienky a svojou prítomnosťou vyjadriť solidaritu s nezávislou kultúrou na Slovensku. — [Saša](https://knihynakorze.sk/).\n\nKEDY: Utorok, 31. marca 2026 o 17:00 hod.  \nKDE: okno Kníhkupectva Na korze, Humenné\n\nGrafika: [Ďuri](https://jurajbehun.myportfolio.com/) 😉\n\n> Pravda a láska musí zvítězit nad lží a nenávistí — Václav Havel\n\n🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1830e3cd9d.jpg\">\n",
 				"date_published": "2026-03-29T20:19:21+02:00",
 				"url": "https://micro.zwieratko.sk/2026/03/29/kultra-potrebuje-hlas-nie-ticho.html"
 			},
