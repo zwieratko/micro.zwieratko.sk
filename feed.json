@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/09/macos-ios-je-tu.html",
+				
+				"content_html": "<p>macOS / iOS 26.4.1 je tu. 🖖</p>\n",
+				"content_text": "macOS / iOS 26.4.1 je tu. 🖖\n",
+				"date_published": "2026-04-09T22:54:56+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/09/macos-ios-je-tu.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/08/interaktvna-mapa-tolkienovej-stredozeme-vaka.html",
+				
+				"content_html": "<p>Interaktívna mapa <a href=\"https://middle-earth-interactive-map.web.app/\">Tolkienovej stredozeme</a>. 😉 Vďaka za skvelý tip z Hacker News! 🖖</p>\n",
+				"content_text": "Interaktívna mapa [Tolkienovej stredozeme](https://middle-earth-interactive-map.web.app/). 😉 Vďaka za skvelý tip z Hacker News! 🖖\n",
+				"date_published": "2026-04-08T07:27:38+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/08/interaktvna-mapa-tolkienovej-stredozeme-vaka.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/07/po-tyroch-doch-vona-op.html",
 				
 				"content_html": "<p>Po štyroch dňoch voľna opäť v práci — žiadna sláva. 😭 Aby toho nebolo málo, mám už len tri dni na prípravu ďalšieho okna údržby. 🛠️ Bude to perné, ak to stíham, tak v sobotu za odmenu: <a href=\"https://tabacka.sk/event-detail/69b9446fd5765b05d647a56a/?lang=sk_SK\">FEST ČIERNY DEŇ</a>, mňam! 🖖</p>\n",
@@ -26,7 +42,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/05/tejto-jari-sa-neviem-do.html",
 				
 				"content_html": "<p>Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/9dbabb53f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖\n\n<img src=\"uploads/2026/9dbabb53f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-05T14:42:51+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/05/tejto-jari-sa-neviem-do.html"
 			},
@@ -583,10 +599,18 @@
 				"url": "https://micro.zwieratko.sk/2026/02/22/nedea-dnes-mme-celkom-pekn.html"
 			},
 			{
+				"id": "http://zwieratko.micro.blog/2026/02/21/bol-to-sladk-de-a.html",
+				
+				"content_html": "<p>Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bol to sladký deň 😂 a ešte aj bude zajtra 🤣. Na dnes už stačilo. Dobrú noc. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/d77b3c1072.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-02-21T23:58:21+02:00",
+				"url": "https://micro.zwieratko.sk/2026/02/21/bol-to-sladk-de-a.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/02/21/feedland-v-kontajneri-be-a.html",
 				
 				"content_html": "<p><a href=\"https://feedland.zwieratko.sk/\">FeedLand v kontajneri</a> beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[FeedLand v kontajneri](https://feedland.zwieratko.sk/) beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.\n\n<img src=\"uploads/2026/snimka-obrazovky-2026-02-21-o-16.54.45.png\" width=\"600\" height=\"61\" alt=\"Auto-generated description: Výpis terminálu ukazuje využitie pamäte v systéme vrátane pamäte RAM, swapu a vyrovnávacej pamäte.\">\n",
+				"content_text": "[FeedLand v kontajneri](https://feedland.zwieratko.sk/) beží a ja sa s ním postupne učím pracovať. Spotreba RAM na VM síce stúpla, ale stroj ešte vládze 😉.\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/snimka-obrazovky-2026-02-21-o-16.54.45.png\" width=\"600\" height=\"61\" alt=\"Auto-generated description: Výpis terminálu ukazuje využitie pamäte v systéme vrátane pamäte RAM, swapu a vyrovnávacej pamäte.\">\n",
 				"date_published": "2026-02-21T18:15:13+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/21/feedland-v-kontajneri-be-a.html"
 			},
@@ -602,7 +626,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/20/zana-sa-to-rsova-feedland.html",
 				
 				"content_html": "<p>Začína sa to rýsovať 👌 <a href=\"https://github.com/scotthansonde/feedlandDockerCompose\">FeedLand v kontajenri</a> na vlastnej doméne 🖖.\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "Začína sa to rýsovať 👌 [FeedLand v kontajenri](https://github.com/scotthansonde/feedlandDockerCompose) na vlastnej doméne 🖖.\n<img src=\"uploads/2026/image.png\" width=\"600\" height=\"278\" alt=\"Auto-generated description: Dialógové okno obsahuje informácie o adrese servera a verziách softvéru vrátane MySQL, FeedLand Database, FeedLand a FeedLand klienta.\">\n",
+				"content_text": "Začína sa to rýsovať 👌 [FeedLand v kontajenri](https://github.com/scotthansonde/feedlandDockerCompose) na vlastnej doméne 🖖.\n<img src=\"https://eu.uploads.micro.blog/296029/2026/image.png\" width=\"600\" height=\"278\" alt=\"Auto-generated description: Dialógové okno obsahuje informácie o adrese servera a verziách softvéru vrátane MySQL, FeedLand Database, FeedLand a FeedLand klienta.\">\n",
 				"date_published": "2026-02-20T22:02:23+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/20/zana-sa-to-rsova-feedland.html"
 			},
@@ -633,16 +657,16 @@
 			{
 				"id": "http://zwieratko.micro.blog/2026/02/18/vianoce-s-u-dvno-za.html",
 				
-				"content_html": "<p>Vianoce sú už dávno za nami 😉, a preto je najvyšší čas pripomenúť si ich týmito krásnymi <a href=\"https://zwieratko.sk/recepty/2021/12/linecke-kolaciky/\">lineckými koláčikmi</a>. Ešte v stave &ldquo;pred upečením&rdquo;, sezóna 2025.</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/9abf64095f.jpg\" alt=\"Na drevenom povrchu sú vykrojené srdiečkové sušienky spolu s kovovými formičkami na pečenie.\"></p>\n",
-				"content_text": "Vianoce sú už dávno za nami 😉, a preto je najvyšší čas pripomenúť si ich týmito krásnymi [lineckými koláčikmi](https://zwieratko.sk/recepty/2021/12/linecke-kolaciky/). Ešte v stave \"pred upečením\", sezóna 2025.\n\n![Na drevenom povrchu sú vykrojené srdiečkové sušienky spolu s kovovými formičkami na pečenie.](https://micro.zwieratko.sk/uploads/2026/9abf64095f.jpg)\n",
+				"content_html": "<p>Vianoce sú už dávno za nami 😉, a preto je najvyšší čas pripomenúť si ich týmito krásnymi <a href=\"https://zwieratko.sk/recepty/2021/12/linecke-kolaciky/\">lineckými koláčikmi</a>. Ešte v stave &ldquo;pred upečením&rdquo;, sezóna 2025.</p>\n<p><img src=\"https://eu.uploads.micro.blog/296029/2026/9abf64095f.jpg\" alt=\"Na drevenom povrchu sú vykrojené srdiečkové sušienky spolu s kovovými formičkami na pečenie.\"></p>\n",
+				"content_text": "Vianoce sú už dávno za nami 😉, a preto je najvyšší čas pripomenúť si ich týmito krásnymi [lineckými koláčikmi](https://zwieratko.sk/recepty/2021/12/linecke-kolaciky/). Ešte v stave \"pred upečením\", sezóna 2025.\n\n![Na drevenom povrchu sú vykrojené srdiečkové sušienky spolu s kovovými formičkami na pečenie.](https://eu.uploads.micro.blog/296029/2026/9abf64095f.jpg)\n",
 				"date_published": "2026-02-18T16:49:50+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/18/vianoce-s-u-dvno-za.html"
 			},
 			{
 				"id": "http://zwieratko.micro.blog/2026/02/18/nostr-a-vlastn-domna-splnen.html",
 				
-				"content_html": "<p>Nostr a vlastná doména - splnené ✅. Žiaľ chyba bola nezvyčajne na mojej strane 🤣, zle som preložil verejný kľuč do hex formátu. Takže, ak by ma niekto hľadal na sieti Nostr, tak tu je môj verejný kľúč:</p>\n<p><!-- raw HTML omitted -->npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98<!-- raw HTML omitted --></p>\n<p>Prekrásny deň všetkým 🖖.</p>\n<p><img src=\"https://micro.zwieratko.sk/uploads/2026/nostr.png\" alt=\"npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98\"></p>\n",
-				"content_text": "Nostr a vlastná doména - splnené ✅. Žiaľ chyba bola nezvyčajne na mojej strane 🤣, zle som preložil verejný kľuč do hex formátu. Takže, ak by ma niekto hľadal na sieti Nostr, tak tu je môj verejný kľúč:\n\n<code style=\"word-break: break-all;\">npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98</code>\n\nPrekrásny deň všetkým 🖖.\n\n![npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98](https://micro.zwieratko.sk/uploads/2026/nostr.png)\n",
+				"content_html": "<p>Nostr a vlastná doména - splnené ✅. Žiaľ chyba bola nezvyčajne na mojej strane 🤣, zle som preložil verejný kľuč do hex formátu. Takže, ak by ma niekto hľadal na sieti Nostr, tak tu je môj verejný kľúč:</p>\n<p><!-- raw HTML omitted -->npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98<!-- raw HTML omitted --></p>\n<p>Prekrásny deň všetkým 🖖.</p>\n<p><img src=\"https://eu.uploads.micro.blog/296029/2026/nostr.png\" alt=\"npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98\"></p>\n",
+				"content_text": "Nostr a vlastná doména - splnené ✅. Žiaľ chyba bola nezvyčajne na mojej strane 🤣, zle som preložil verejný kľuč do hex formátu. Takže, ak by ma niekto hľadal na sieti Nostr, tak tu je môj verejný kľúč:\n\n<code style=\"word-break: break-all;\">npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98</code>\n\nPrekrásny deň všetkým 🖖.\n\n![npub1r2ftvq7w7g0hzgels8p27j8m24nwyra03gvqwnaa4q4ymvg78fwsxu5c98](https://eu.uploads.micro.blog/296029/2026/nostr.png)\n",
 				"date_published": "2026-02-18T10:12:25+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/18/nostr-a-vlastn-domna-splnen.html"
 			},
@@ -666,7 +690,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/17/183727.html",
 				
 				"content_html": "<p>🖖👌✌️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🖖👌✌️\n\n<img src=\"uploads/2026/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🖖👌✌️\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-17T19:37:27+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/17/183727.html"
 			},
@@ -706,7 +730,7 @@
 				"id": "http://zwieratko.micro.blog/2026/02/15/na-zver-da-ete-jeden.html",
 				
 				"content_html": "<p>Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.\n\n\n<img src=\"uploads/2026/img-1210.jpg\" width=\"600\" height=\"450\" alt=\"Rieka s čiastočne zamrznutým povrchom tečie popri ceste za súmraku, keďže obzor osvetľuje svetlo zapadajúceho slnka.\">\n",
+				"content_text": "Na záver dňa ešte jeden prekrásny západ slnka. Dúfajme, že zajtra vyjde znova – lebo demokracia zomiera v temnote.\n\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-1210.jpg\" width=\"600\" height=\"450\" alt=\"Rieka s čiastočne zamrznutým povrchom tečie popri ceste za súmraku, keďže obzor osvetľuje svetlo zapadajúceho slnka.\">\n",
 				"date_published": "2026-02-15T22:48:07+02:00",
 				"url": "https://micro.zwieratko.sk/2026/02/15/na-zver-da-ete-jeden.html"
 			},
