@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/11/hajde-do-koc-vlakom-ako.html",
+				
+				"content_html": "<p>Hajde do Košíc. Vlakom, ako inak. 🚅 Káva nepočká! ☕️ A dnes ešte k tomu veľa písania&hellip; 😉 🖖</p>\n",
+				"content_text": "Hajde do Košíc. Vlakom, ako inak. 🚅 Káva nepočká! ☕️ A dnes ešte k tomu veľa písania... 😉 🖖\n",
+				"date_published": "2026-04-11T09:55:49+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/11/hajde-do-koc-vlakom-ako.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/10/ak-mte-radi-kvu-tak.html",
+				
+				"content_html": "<p>Ak máte radi kávu, tak zajtra sa isto vidíme v košickej Tabačke na mimoriadne kávovo zaujímavom festivale <a href=\"https://tabacka.sk/event-detail/69b9446fd5765b05d647a56a/\">FEST ČIERNY DEŇ</a>. Nebyť tam, to by bol riadny fail. ☕️🖤 Káve zdar!🖖</p>\n",
+				"content_text": "Ak máte radi kávu, tak zajtra sa isto vidíme v košickej Tabačke na mimoriadne kávovo zaujímavom festivale [FEST ČIERNY DEŇ](https://tabacka.sk/event-detail/69b9446fd5765b05d647a56a/). Nebyť tam, to by bol riadny fail. ☕️🖤 Káve zdar!🖖\n",
+				"date_published": "2026-04-10T19:12:53+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/10/ak-mte-radi-kvu-tak.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/09/festival-stromov.html",
+				
+				"content_html": "<p>Festival stromov. ❤️👌🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Festival stromov. ❤️👌🖖\n\n<img src=\"uploads/2026/75229acfc8.jpg\" width=\"600\" height=\"318\" alt=\"\">\n",
+				"date_published": "2026-04-09T22:59:18+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/09/festival-stromov.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/09/macos-ios-je-tu.html",
 				
 				"content_html": "<p>macOS / iOS 26.4.1 je tu. 🖖</p>\n",
@@ -42,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/05/tejto-jari-sa-neviem-do.html",
 				
 				"content_html": "<p>Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖\n\n<img src=\"uploads/2026/9dbabb53f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tejto jari sa neviem do sýtosti nabažiť. 😉 Vôňa kvitnúcich mirabeliek je omamná. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/9dbabb53f6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-05T14:42:51+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/05/tejto-jari-sa-neviem-do.html"
 			},
