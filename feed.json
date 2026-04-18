@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/18/nemm-as-tu-len-tak.html",
+				
+				"content_html": "<p>Nemám čas tu len tak podaromnici trkotať. 😉🖖</p>\n",
+				"content_text": "Nemám čas tu len tak podaromnici trkotať. 😉🖖\n",
+				"date_published": "2026-04-18T17:42:22+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/18/nemm-as-tu-len-tak.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/17/prekrsny-piatok-vetkm-poasie-je.html",
+				
+				"content_html": "<p>Prekrásny piatok všetkým! 🎉 Počasie je luxusné a celý deň má byť slnečno. 😎 Okná údržby sú úspešne za nami, tak hor sa do ďalších dobrodružstiev! Víkendový projekt: vytvoriť zhodné podmienky ako na hostingu v prostredí macOS 26 pre vývoj, ladenie a testovanie PHP aplikácií. 🛠️💻 🖖</p>\n",
+				"content_text": "Prekrásny piatok všetkým! 🎉 Počasie je luxusné a celý deň má byť slnečno. 😎 Okná údržby sú úspešne za nami, tak hor sa do ďalších dobrodružstiev! Víkendový projekt: vytvoriť zhodné podmienky ako na hostingu v prostredí macOS 26 pre vývoj, ladenie a testovanie PHP aplikácií. 🛠️💻 🖖\n",
+				"date_published": "2026-04-17T08:24:18+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/17/prekrsny-piatok-vetkm-poasie-je.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/16/prve-som-absolvoval-martrium-registrcie.html",
 				
 				"content_html": "<p>Práve som absolvoval martýrium registrácie na portáli Finančnej správy. Nasledovalo elektronické podanie „Vyhlásenia o poukázaní 2 % z dane“ a finálne podpisovanie elektronickým podpisom. 😢 Bola to strastiplná cesta. A to som fanúšik technológií. Digitalizácia v štátnej správe je však iná liga&hellip; 🖖</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/14/obdobie-sakr-sa-zaalo-aj.html",
 				
 				"content_html": "<p>Obdobie sakúr sa začalo aj u nás v meste. Takýto krásny Kanzan máme priamo na sídlisku. Zrejme sa už nikdy nedozvieme, koho to bol nápad zasadiť sem takú nádheru, ale vďaka zaň. 🌸 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Obdobie sakúr sa začalo aj u nás v meste. Takýto krásny Kanzan máme priamo na sídlisku. Zrejme sa už nikdy nedozvieme, koho to bol nápad zasadiť sem takú nádheru, ale vďaka zaň. 🌸 🖖\n\n<img src=\"uploads/2026/07f63636dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Obdobie sakúr sa začalo aj u nás v meste. Takýto krásny Kanzan máme priamo na sídlisku. Zrejme sa už nikdy nedozvieme, koho to bol nápad zasadiť sem takú nádheru, ale vďaka zaň. 🌸 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/07f63636dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-14T05:41:47+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/14/obdobie-sakr-sa-zaalo-aj.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/12/kudn-a-slnen-nedea-pohoda.html",
 				
 				"content_html": "<p>Kľudná a slnečná nedeľa, pohoda, jazz. Nediétny obed, jak sa patrí, k nedeli neodmysliteľne patrí. 😀 Spísal som všetko poctivo a je z toho nový recept: <a href=\"https://zwieratko.sk/recepty/2026/04/segedinsky-gulas/\">Segedínsky guláš</a>, nech sa páči a dobrú chuť. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kľudná a slnečná nedeľa, pohoda, jazz. Nediétny obed, jak sa patrí, k nedeli neodmysliteľne patrí. 😀 Spísal som všetko poctivo a je z toho nový recept: [Segedínsky guláš](https://zwieratko.sk/recepty/2026/04/segedinsky-gulas/), nech sa páči a dobrú chuť. 🖖\n\n<img src=\"uploads/2026/622b1d3788.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Kľudná a slnečná nedeľa, pohoda, jazz. Nediétny obed, jak sa patrí, k nedeli neodmysliteľne patrí. 😀 Spísal som všetko poctivo a je z toho nový recept: [Segedínsky guláš](https://zwieratko.sk/recepty/2026/04/segedinsky-gulas/), nech sa páči a dobrú chuť. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/622b1d3788.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-12T15:02:38+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/12/kudn-a-slnen-nedea-pohoda.html"
 			},
@@ -74,7 +90,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
