@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/19/pouvam-u-sce-gcp-cloud.html",
+				
+				"content_html": "<p>Používam už síce GCP Cloud Shell nejaký ten piatok, no nikdy som nezisťoval, či je tam dostupný aj nástroj <a href=\"https://docs.astral.sh/uv/\">uv</a>. A on tam je! 😉 S takýmto pomocníkom je inštalácia napríklad Ansiblu otázkou jediného príkazu:</p>\n<p><code>uv tool install ansible-core --with ansible</code></p>\n<p>Čistá efektivita a paráda. 🖖</p>\n",
+				"content_text": "Používam už síce GCP Cloud Shell nejaký ten piatok, no nikdy som nezisťoval, či je tam dostupný aj nástroj [uv](https://docs.astral.sh/uv/). A on tam je! 😉 S takýmto pomocníkom je inštalácia napríklad Ansiblu otázkou jediného príkazu:\n\n`uv tool install ansible-core --with ansible`\n\nČistá efektivita a paráda. 🖖\n",
+				"date_published": "2026-04-19T21:59:50+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/19/pouvam-u-sce-gcp-cloud.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/18/sympzium-motov.html",
+				
+				"content_html": "<p>Sympózium motýľov. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sympózium motýľov. 🖖\n\n<img src=\"uploads/2026/84d4525161.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-18T19:54:58+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/18/sympzium-motov.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/18/nemm-as-tu-len-tak.html",
 				
 				"content_html": "<p>Nemám čas tu len tak podaromnici trkotať. 😉🖖</p>\n",
@@ -90,7 +106,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
