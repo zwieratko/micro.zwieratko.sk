@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/21/och-t-va-orgovnu.html",
+				
+				"content_html": "<p>Och tá vôňa orgovánu. 🖖</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Och tá vôňa orgovánu. 🖖\n\n<img src=\"uploads/2026/be76a1f179.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-21T17:20:06+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/21/och-t-va-orgovnu.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/04/20/hadte-dokonal-neden-dezert-aj.html",
+				
+				"content_html": "<p>Hľadáte dokonalý nedeľný dezert? Aj keď je už pondelok ráno. 🤣 Táto citrónová piškóta je hotová bleskovo a chutí ako detstvo. Nový prírastok medzi receptami: <a href=\"https://zwieratko.sk/recepty/2026/04/piskota-s-citronovou-polevou/\">Piškóta s citrónovou polevou</a>. A hor sa do práce! 🖖</p>\n",
+				"content_text": "Hľadáte dokonalý nedeľný dezert? Aj keď je už pondelok ráno. 🤣 Táto citrónová piškóta je hotová bleskovo a chutí ako detstvo. Nový prírastok medzi receptami: [Piškóta s citrónovou polevou](https://zwieratko.sk/recepty/2026/04/piskota-s-citronovou-polevou/). A hor sa do práce! 🖖\n",
+				"date_published": "2026-04-20T08:10:06+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/20/hadte-dokonal-neden-dezert-aj.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/19/pouvam-u-sce-gcp-cloud.html",
 				
 				"content_html": "<p>Používam už síce GCP Cloud Shell nejaký ten piatok, no nikdy som nezisťoval, či je tam dostupný aj nástroj <a href=\"https://docs.astral.sh/uv/\">uv</a>. A on tam je! 😉 S takýmto pomocníkom je inštalácia napríklad Ansiblu otázkou jediného príkazu:</p>\n<p><code>uv tool install ansible-core --with ansible</code></p>\n<p>Čistá efektivita a paráda. 🖖</p>\n",
