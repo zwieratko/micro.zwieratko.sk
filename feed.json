@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/04/27/v-late-by-male-by.html",
+				
+				"content_html": "<p>V late by male byť uvedená ďalšia, už štvrtá séria — <a href=\"https://www.youtube.com/watch?v=7FaPm2QTy5w\">Star Trek: Strange New Worlds</a>. Žite dlho a blažene! 🖖</p>\n",
+				"content_text": "V late by male byť uvedená ďalšia, už štvrtá séria — [Star Trek: Strange New Worlds](https://www.youtube.com/watch?v=7FaPm2QTy5w). Žite dlho a blažene! 🖖\n",
+				"date_published": "2026-04-27T07:29:14+02:00",
+				"url": "https://micro.zwieratko.sk/2026/04/27/v-late-by-male-by.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/04/24/prekrsny-piatok-vetkm.html",
 				
 				"content_html": "<p>Prekrásny piatok všetkým. 🖖👌👍</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/21/och-t-va-orgovnu.html",
 				
 				"content_html": "<p>Och tá vôňa orgovánu. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Och tá vôňa orgovánu. 🖖\n\n<img src=\"uploads/2026/be76a1f179.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Och tá vôňa orgovánu. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/be76a1f179.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-21T17:20:06+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/21/och-t-va-orgovnu.html"
 			},
