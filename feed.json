@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/05/13/rodina-editorov-vi-ktor-vychdzaj.html",
+				
+				"content_html": "<p>Rodina editorov vi, ktoré vychádzajú zo staručkého originálu z roku 1977, je naozaj rozsiahla. Fascinujúce je, že sa dodnes hojne používajú v každom modernom systéme: <a href=\"https://lpar.ath0.com/posts/2026/05/the-vi-family/\">The vi family</a>. Sám som si na <strong>vim</strong> časom zvykol a dnes ho už mám celkom rád. 😉🖖</p>\n",
+				"content_text": "Rodina editorov vi, ktoré vychádzajú zo staručkého originálu z roku 1977, je naozaj rozsiahla. Fascinujúce je, že sa dodnes hojne používajú v každom modernom systéme: [The vi family](https://lpar.ath0.com/posts/2026/05/the-vi-family/). Sám som si na **vim** časom zvykol a dnes ho už mám celkom rád. 😉🖖\n",
+				"date_published": "2026-05-13T07:02:50+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/13/rodina-editorov-vi-ktor-vychdzaj.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/05/09/busy-bee-kim-gordon.html",
 				
 				"content_html": "<p>Busy bee. Kim Gordon. 🎉💕❤️👌🖖</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/24/prekrsny-piatok-vetkm.html",
 				
 				"content_html": "<p>Prekrásny piatok všetkým. 🖖👌👍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prekrásny piatok všetkým. 🖖👌👍\n\n<img src=\"uploads/2026/641f16466f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Prekrásny piatok všetkým. 🖖👌👍\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/641f16466f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-24T14:05:39+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/24/prekrsny-piatok-vetkm.html"
 			},
