@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/05/20/sedemkrt-spadni-osemkrt-vsta-japonsk.html",
+				
+				"content_html": "<p>„Sedemkrát spadni, osemkrát vstaň.“ – Japonské príslovie 🖖</p>\n",
+				"content_text": "„Sedemkrát spadni, osemkrát vstaň.“ – Japonské príslovie 🖖\n",
+				"date_published": "2026-05-20T06:42:30+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/20/sedemkrt-spadni-osemkrt-vsta-japonsk.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/05/13/krsavec.html",
+				
+				"content_html": "<p>Krásavec 😉.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Krásavec 😉. \n\n<img src=\"uploads/2026/c29d257ca2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-13T10:28:10+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/13/krsavec.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/05/13/rodina-editorov-vi-ktor-vychdzaj.html",
 				
 				"content_html": "<p>Rodina editorov vi, ktoré vychádzajú zo staručkého originálu z roku 1977, je naozaj rozsiahla. Fascinujúce je, že sa dodnes hojne používajú v každom modernom systéme: <a href=\"https://lpar.ath0.com/posts/2026/05/the-vi-family/\">The vi family</a>. Sám som si na <strong>vim</strong> časom zvykol a dnes ho už mám celkom rád. 😉🖖</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/05/02/punov-prekrsnu-sobotu.html",
 				
 				"content_html": "<p>Punčová. Prekrásnu sobotu. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Punčová. Prekrásnu sobotu. 🖖\n\n<img src=\"uploads/2026/8582dd508c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Punčová. Prekrásnu sobotu. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/8582dd508c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-02T18:13:49+02:00",
 				"url": "https://micro.zwieratko.sk/2026/05/02/punov-prekrsnu-sobotu.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/23/ios.html",
 				
 				"content_html": "<p>iOS 26.4.2</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "iOS 26.4.2\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
+				"content_text": "iOS 26.4.2\n\n<img src=\"uploads/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
 				"date_published": "2026-04-23T07:05:24+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/23/ios.html"
 			},
@@ -74,7 +90,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/21/pred-rokmi.html",
 				
 				"content_html": "<p>Pred 17 rokmi. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
+				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"uploads/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
 				"date_published": "2026-04-21T18:33:25+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/21/pred-rokmi.html"
 			},
@@ -194,7 +210,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
