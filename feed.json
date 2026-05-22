@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/05/22/uv-je-vne-fantastick-nstroj.html",
+				
+				"content_html": "<p><a href=\"https://docs.astral.sh/uv/\">uv</a> je vážne fantastický nástroj a používam ho už všade, kde narábam s balíkmi Pythonu 🐍, ale má svoje <a href=\"https://www.loopwerk.io/articles/2026/uv-ux-mess/\">muchy</a>. No vývoj prebieha búrlivo a nové verzie vychádzajú prakticky každý týždeň. 🚀 🖖</p>\n",
+				"content_text": "[uv](https://docs.astral.sh/uv/) je vážne fantastický nástroj a používam ho už všade, kde narábam s balíkmi Pythonu 🐍, ale má svoje [muchy](https://www.loopwerk.io/articles/2026/uv-ux-mess/). No vývoj prebieha búrlivo a nové verzie vychádzajú prakticky každý týždeň. 🚀 🖖\n",
+				"date_published": "2026-05-22T06:27:10+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/22/uv-je-vne-fantastick-nstroj.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/05/20/google-sprstupnil-nov-verziu-svojho.html",
+				
+				"content_html": "<p>Google sprístupnil novú verziu svojho vlajkového jazykového modelu <a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash\">Gemini 3.5 Flash</a>. Chváli sa jeho špičkovou rýchlosťou a vynikajúcimi schopnosťami v oblasti kódovania a práce s AI agentmi. Máme sa na čo tešiť, šup sem s ním. 🖖</p>\n",
+				"content_text": "Google sprístupnil novú verziu svojho vlajkového jazykového modelu [Gemini 3.5 Flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash). Chváli sa jeho špičkovou rýchlosťou a vynikajúcimi schopnosťami v oblasti kódovania a práce s AI agentmi. Máme sa na čo tešiť, šup sem s ním. 🖖\n",
+				"date_published": "2026-05-20T08:53:03+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/20/google-sprstupnil-nov-verziu-svojho.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/05/20/sedemkrt-spadni-osemkrt-vsta-japonsk.html",
 				
 				"content_html": "<p>„Sedemkrát spadni, osemkrát vstaň.“ – Japonské príslovie 🖖</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://zwieratko.micro.blog/2026/05/09/busy-bee-kim-gordon.html",
 				
 				"content_html": "<p>Busy bee. Kim Gordon. 🎉💕❤️👌🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Busy bee. Kim Gordon. 🎉💕❤️👌🖖\n\n<img src=\"uploads/2026/896cbe57e8.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "Busy bee. Kim Gordon. 🎉💕❤️👌🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/896cbe57e8.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-09T08:42:37+02:00",
 				"url": "https://micro.zwieratko.sk/2026/05/09/busy-bee-kim-gordon.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://zwieratko.micro.blog/2026/05/04/naruenie-symetrie.html",
 				
 				"content_html": "<p>Narušenie symetrie. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Narušenie symetrie. 🖖\n\n<img src=\"uploads/2026/ac71d05bcf.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Narušenie symetrie. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/ac71d05bcf.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-04T17:29:27+02:00",
 				"url": "https://micro.zwieratko.sk/2026/05/04/naruenie-symetrie.html"
 			},
@@ -82,7 +98,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/23/ios.html",
 				
 				"content_html": "<p>iOS 26.4.2</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "iOS 26.4.2\n\n<img src=\"uploads/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
+				"content_text": "iOS 26.4.2\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
 				"date_published": "2026-04-23T07:05:24+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/23/ios.html"
 			},
@@ -90,7 +106,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/21/pred-rokmi.html",
 				
 				"content_html": "<p>Pred 17 rokmi. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"uploads/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
+				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
 				"date_published": "2026-04-21T18:33:25+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/21/pred-rokmi.html"
 			},
@@ -210,7 +226,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
