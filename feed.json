@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/05/23/zaujmav-pohad-na-ai-ekonomick.html",
+				
+				"content_html": "<p>Zaujímavý pohľad na AI, ekonomická súvaha najväčších hráčov v prekrásnom grafickom podaní: <a href=\"https://isaiprofitable.com/\">Is AI Profitable Yet?</a>. 📈📉 🖖</p>\n",
+				"content_text": "Zaujímavý pohľad na AI, ekonomická súvaha najväčších hráčov v prekrásnom grafickom podaní: [Is AI Profitable Yet?](https://isaiprofitable.com/). 📈📉 🖖\n",
+				"date_published": "2026-05-23T15:15:04+02:00",
+				"url": "https://micro.zwieratko.sk/2026/05/23/zaujmav-pohad-na-ai-ekonomick.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/05/22/uv-je-vne-fantastick-nstroj.html",
 				
 				"content_html": "<p><a href=\"https://docs.astral.sh/uv/\">uv</a> je vážne fantastický nástroj a používam ho už všade, kde narábam s balíkmi Pythonu 🐍, ale má svoje <a href=\"https://www.loopwerk.io/articles/2026/uv-ux-mess/\">muchy</a>. No vývoj prebieha búrlivo a nové verzie vychádzajú prakticky každý týždeň. 🚀 🖖</p>\n",
@@ -226,7 +234,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
