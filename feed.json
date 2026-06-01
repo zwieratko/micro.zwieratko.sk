@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/06/01/najv-spech-loveka-nie-je.html",
+				
+				"content_html": "<p>„Najväčší úspech človeka nie je v tom, že nikdy nepadne, ale v tom, že vždy opäť vstane.“ – Konfucius</p>\n",
+				"content_text": "„Najväčší úspech človeka nie je v tom, že nikdy nepadne, ale v tom, že vždy opäť vstane.“ – Konfucius\n\n",
+				"date_published": "2026-06-01T21:55:27+02:00",
+				"url": "https://micro.zwieratko.sk/2026/06/01/najv-spech-loveka-nie-je.html"
+			},
+			{
+				"id": "http://zwieratko.micro.blog/2026/06/01/nobody-cracks-open-a-programming.html",
+				
+				"content_html": "<p><a href=\"https://unix.foo/posts/nobody-cracks-open-a-programming-book/\">Nobody Cracks Open a Programming Book Anymore · unix.foo</a></p>\n",
+				"content_text": "[Nobody Cracks Open a Programming Book Anymore · unix.foo](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)\n",
+				"date_published": "2026-06-01T06:50:50+02:00",
+				"url": "https://micro.zwieratko.sk/2026/06/01/nobody-cracks-open-a-programming.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/05/31/roky-devdesiate.html",
 				
 				"content_html": "<p>Roky deväťdesiate. ❤️💕🖖</p>\n<!-- raw HTML omitted -->\n",
@@ -98,7 +114,7 @@
 				"id": "http://zwieratko.micro.blog/2026/05/04/naruenie-symetrie.html",
 				
 				"content_html": "<p>Narušenie symetrie. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Narušenie symetrie. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/ac71d05bcf.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Narušenie symetrie. 🖖\n\n<img src=\"uploads/2026/ac71d05bcf.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-04T17:29:27+02:00",
 				"url": "https://micro.zwieratko.sk/2026/05/04/naruenie-symetrie.html"
 			},
@@ -138,7 +154,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/23/ios.html",
 				
 				"content_html": "<p>iOS 26.4.2</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "iOS 26.4.2\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
+				"content_text": "iOS 26.4.2\n\n<img src=\"uploads/2026/0ae8979308.jpg\" width=\"600\" height=\"475\" alt=\"\">\n",
 				"date_published": "2026-04-23T07:05:24+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/23/ios.html"
 			},
@@ -146,7 +162,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/21/pred-rokmi.html",
 				
 				"content_html": "<p>Pred 17 rokmi. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
+				"content_text": "Pred 17 rokmi. 🖖\n\n<img src=\"uploads/2026/5cea46da74.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
 				"date_published": "2026-04-21T18:33:25+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/21/pred-rokmi.html"
 			},
@@ -266,7 +282,7 @@
 				"id": "http://zwieratko.micro.blog/2026/04/11/fest-ierny-de-vnimon-komorn.html",
 				
 				"content_html": "<p>FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"uploads/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "FEST ČIERNY DEŇ — výnimočný, komorný, príjemný a plný aj psíkov. Jedna báseň. 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/1695c82135.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-11T13:21:29+02:00",
 				"url": "https://micro.zwieratko.sk/2026/04/11/fest-ierny-de-vnimon-komorn.html"
 			},
