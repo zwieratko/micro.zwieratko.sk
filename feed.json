@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/07/26/asi-sa-mme-na-o.html",
+				
+				"content_html": "<p>Asi sa máme na čo tešiť, všakže, taký dobrý <a href=\"https://www.youtube.com/watch?v=g79GPZSQHBk\">Neuromancer</a> nie je nikdy zlý. Dúfam, že to bude riadna nálož. 🖖</p>\n",
+				"content_text": "Asi sa máme na čo tešiť, všakže, taký dobrý [Neuromancer](https://www.youtube.com/watch?v=g79GPZSQHBk) nie je nikdy zlý. Dúfam, že to bude riadna nálož. 🖖\n",
+				"date_published": "2026-07-26T15:51:34+02:00",
+				"url": "https://micro.zwieratko.sk/2026/07/26/asi-sa-mme-na-o.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/07/21/objavujem-nov-a-arovn-svet.html",
 				
 				"content_html": "<p>Objavujem nový a čarovný svet <a href=\"https://www.openbsd.org/\">OpenBSD</a>. 🐡 🖖</p>\n",
