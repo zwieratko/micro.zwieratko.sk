@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/08/10/na-budci-pondelok-by-mal.html",
+				
+				"content_html": "<p>Na budúci pondelok by mal byť odvysielaný prvý diel seriálu <a href=\"https://www.youtube.com/watch?v=7UIBOsuUwc4\">Lanterns</a> o medzihviezdnych policajtoch 🤣, ktorí vyšetrujú temnú vraždu v srdci Ameriky. Séria potom vyvrcholí v pondelok 5. októbra. Vyzerá to celkom zaujímavo. 🖖</p>\n",
+				"content_text": "Na budúci pondelok by mal byť odvysielaný prvý diel seriálu [Lanterns](https://www.youtube.com/watch?v=7UIBOsuUwc4) o medzihviezdnych policajtoch 🤣, ktorí vyšetrujú temnú vraždu v srdci Ameriky. Séria potom vyvrcholí v pondelok 5. októbra. Vyzerá to celkom zaujímavo. 🖖\n",
+				"date_published": "2026-08-10T22:13:33+02:00",
+				"url": "https://micro.zwieratko.sk/2026/08/10/na-budci-pondelok-by-mal.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/08/08/pomaly-sa-bli-koniec-pobytu.html",
 				
 				"content_html": "<p>Pomaly sa blíži koniec pobytu na západe. A návrat späť na divoký východ. 👌✌️🖖</p>\n<img src=\"uploads/2026/a9473b3890.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://zwieratko.micro.blog/2026/08/01/krtky-vlet-smer-zpad.html",
 				
-				"content_html": "<p>Krátky výlet. Smer západ. ❤️👌🖖</p>\n<img src=\"uploads/2026/93bfd0013f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "Krátky výlet. Smer západ. ❤️👌🖖\n\n<img src=\"uploads/2026/93bfd0013f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Krátky výlet. Smer západ. ❤️👌🖖</p>\n<img src=\"https://eu.uploads.micro.blog/296029/2026/93bfd0013f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Krátky výlet. Smer západ. ❤️👌🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/93bfd0013f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-08-01T07:45:56+02:00",
 				"url": "https://micro.zwieratko.sk/2026/08/01/krtky-vlet-smer-zpad.html"
 			},
