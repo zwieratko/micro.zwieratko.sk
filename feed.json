@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/10/05/siesta-na-psme-krdla-z.html",
+				
+				"content_html": "<p>siesta na písme<br>\nkrídla z tmy a plameňa<br>\ntichý odpočinok<br>\n🖖</p>\n<img src=\"uploads/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "siesta na písme  \nkrídla z tmy a plameňa  \ntichý odpočinok  \n🖖\n\n<img src=\"uploads/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-05T21:43:07+02:00",
+				"url": "https://micro.zwieratko.sk/2026/10/05/siesta-na-psme-krdla-z.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/09/22/presne-k-tomuto-tlu-prce.html",
 				
 				"content_html": "<p>Presne k tomuto štýlu práce začínam smerovať aj ja: <a href=\"https://blog.root.cz/tonda/llm-jako-virtualni-projektovy-tym-od-multi-llm-k-orchestrace-nastroju/\">LLM jako virtuální projektový tým: od „multi-LLM“ k orchestrace nástrojů</a>. Je zvláštne, že sa mi nikdy nedarí objaviť Ameriku ako prvému. 😉🖖</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://zwieratko.micro.blog/2026/09/19/vzduchom-g-v-interiri-gigabit.html",
 				
-				"content_html": "<p>Vzduchom (5G), v interiéri, gigabit pri sťahovaní. Nie je to až také zlé. 🚀📶 🖖</p>\n<img src=\"uploads/2026/img-6711.png\" width=\"276\" height=\"600\" alt=\"\">\n",
-				"content_text": "Vzduchom (5G), v interiéri, gigabit pri sťahovaní. Nie je to až také zlé. 🚀📶 🖖\n\n<img src=\"uploads/2026/img-6711.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Vzduchom (5G), v interiéri, gigabit pri sťahovaní. Nie je to až také zlé. 🚀📶 🖖</p>\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-6711.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_text": "Vzduchom (5G), v interiéri, gigabit pri sťahovaní. Nie je to až také zlé. 🚀📶 🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-6711.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-09-19T09:36:34+02:00",
 				"url": "https://micro.zwieratko.sk/2026/09/19/vzduchom-g-v-interiri-gigabit.html"
 			},
