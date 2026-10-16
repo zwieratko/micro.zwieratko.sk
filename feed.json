@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/10/16/blade-runner-to-bude-siln.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=AwK5KxoJsvk\">Blade Runner 2099</a>, to bude silná pecka bez debaty. Už sa neviem dočkať. 😉❤️🖖</p>\n",
+				"content_text": "[Blade Runner 2099](https://www.youtube.com/watch?v=AwK5KxoJsvk), to bude silná pecka bez debaty. Už sa neviem dočkať. 😉❤️🖖\n",
+				"date_published": "2026-10-16T19:42:41+02:00",
+				"url": "https://micro.zwieratko.sk/2026/10/16/blade-runner-to-bude-siln.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/10/13/presne-tak-ai-is-a.html",
 				
 				"content_html": "<p>Presne tak: <a href=\"https://yyhh.org/blog/2026/10/ai-is-a-tool/\">AI Is a Tool. Using It Well Takes Skill.</a>, veľké jazykové modely sú nástroj ako každý iný, netreba ich démonizovať alebo im pripisovať ľudské pohnútky. Je nevyhnutné sa naučiť s nimi pracovať, ak ich chceme používať. A čo bude ďalej? Tak to sa nechajme prekvapiť. 😉🖖</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://zwieratko.micro.blog/2026/10/05/siesta-na-psme-krdla-z.html",
 				
-				"content_html": "<p>siesta na písme<br>\nkrídla z tmy a plameňa<br>\ntichý odpočinok<br>\n🖖</p>\n<img src=\"uploads/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
-				"content_text": "siesta na písme  \nkrídla z tmy a plameňa  \ntichý odpočinok  \n🖖\n\n<img src=\"uploads/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>siesta na písme<br>\nkrídla z tmy a plameňa<br>\ntichý odpočinok<br>\n🖖</p>\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "siesta na písme  \nkrídla z tmy a plameňa  \ntichý odpočinok  \n🖖\n\n<img src=\"https://eu.uploads.micro.blog/296029/2026/img-7092.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-05T21:43:07+02:00",
 				"url": "https://micro.zwieratko.sk/2026/10/05/siesta-na-psme-krdla-z.html"
 			},
