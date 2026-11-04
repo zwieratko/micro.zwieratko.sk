@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://zwieratko.micro.blog/2026/11/04/vsledky-volieb-v-usa-tak.html",
+				
+				"content_html": "<p>Výsledky volieb v USA, tak to je iná ranná káva. ☕️ 🫏 🖖</p>\n",
+				"content_text": "Výsledky volieb v USA, tak to je iná ranná káva. ☕️ 🫏 🖖\n",
+				"date_published": "2026-11-04T07:39:07+01:00",
+				"url": "https://micro.zwieratko.sk/2026/11/04/vsledky-volieb-v-usa-tak.html"
+			},
+			{
 				"id": "http://zwieratko.micro.blog/2026/10/30/intenzvnou-konzumciou-maku-k-svetlejm.html",
 				
 				"content_html": "<p>Intenzívnou konzumáciou maku k svetlejším zajtrajškom! 🖖</p>\n<img src=\"uploads/2026/img-7410.jpg\" width=\"600\" height=\"484\" alt=\"\">\n",
 				"content_text": "Intenzívnou konzumáciou maku k svetlejším zajtrajškom! 🖖\n\n<img src=\"uploads/2026/img-7410.jpg\" width=\"600\" height=\"484\" alt=\"\">\n",
-				"date_published": "2026-10-30T08:55:49+02:00",
+				"date_published": "2026-10-30T07:55:49+01:00",
 				"url": "https://micro.zwieratko.sk/2026/10/30/intenzvnou-konzumciou-maku-k-svetlejm.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>Nádherne a komplexne zhrnuté: <a href=\"https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/\">Will it be a golden age or a dark age for mathematics (and science)?</a>, aplikovateľné na čokoľvek, nielen matematiku. Ak prácu s LLM v primeranej miere (to je koľko? 🤔) integrujeme do našich denných činností, tak nás čaká svetlá budúcnosť. Určite. Možno. 😉☀️🖖</p>\n",
 				"content_text": "Nádherne a komplexne zhrnuté: [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/), aplikovateľné na čokoľvek, nielen matematiku. Ak prácu s LLM v primeranej miere (to je koľko? 🤔) integrujeme do našich denných činností, tak nás čaká svetlá budúcnosť. Určite. Možno. 😉☀️🖖\n",
-				"date_published": "2026-10-18T22:38:48+02:00",
+				"date_published": "2026-10-18T21:38:48+01:00",
 				"url": "https://micro.zwieratko.sk/2026/10/18/ndherne-a-komplexne-zhrnut-will.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>Blíži sa 61. vydanie <a href=\"https://www.openbsd.org/80.html\">OpenBSD</a>. Už je to na spadnutie. Všetci sa veľmi tešíme. 🐡🖖</p>\n",
 				"content_text": "Blíži sa 61. vydanie [OpenBSD](https://www.openbsd.org/80.html). Už je to na spadnutie. Všetci sa veľmi tešíme. 🐡🖖\n",
-				"date_published": "2026-10-17T12:35:39+02:00",
+				"date_published": "2026-10-17T11:35:39+01:00",
 				"url": "https://micro.zwieratko.sk/2026/10/17/bli-sa-vydanie-openbsd-u.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=AwK5KxoJsvk\">Blade Runner 2099</a>, to bude silná pecka bez debaty. Už sa neviem dočkať. 😉❤️🖖</p>\n",
 				"content_text": "[Blade Runner 2099](https://www.youtube.com/watch?v=AwK5KxoJsvk), to bude silná pecka bez debaty. Už sa neviem dočkať. 😉❤️🖖\n",
-				"date_published": "2026-10-16T19:42:41+02:00",
+				"date_published": "2026-10-16T18:42:41+01:00",
 				"url": "https://micro.zwieratko.sk/2026/10/16/blade-runner-to-bude-siln.html"
 			},
 			{
@@ -923,7 +931,7 @@
 				"title": "Má štúdium základov informatiky v ére AI stále zmysel?",
 				"content_html": "<p>Narazil som na nesmierne zaujímavú diskusiu o výsostne aktuálnej téme — či je ešte potrebné štúdium základov počítačovej vedy v čase masívneho nasadzovania AI: <a href=\"https://news.ycombinator.com/item?id=47394291\">AI tools are making me lose interest in CS fundamentals</a>.</p>\n<p>Časť jednej odpovede ma skutočne oslovila:</p>\n<blockquote>\n<p>Knowing fundamentals gives you deeper intuition about the technology, at every layer. When compilers appeared, you no longer needed to understand assembly and registers. But knowing how assembly and registers actually work makes you better at C. When Python came along, low-level languages felt unnecessary. But understanding C&rsquo;s memory management is what lets you understand Python&rsquo;s limitations. Now LLMs write the implementation. LLMs abstract away the code. But knowing how algorithms work, even in a high-level language like Python, is exactly how you catch LLM mistakes and inefficiencies.</p>\n</blockquote>\n<p>Stále platí: ak chceme nájsť „ghost in the shell“, musíme rozumieť tomu, ako ten stroj funguje. 🖖</p>\n",
 				"content_text": "Narazil som na nesmierne zaujímavú diskusiu o výsostne aktuálnej téme — či je ešte potrebné štúdium základov počítačovej vedy v čase masívneho nasadzovania AI: [AI tools are making me lose interest in CS fundamentals](https://news.ycombinator.com/item?id=47394291).\n\nČasť jednej odpovede ma skutočne oslovila:\n\n> Knowing fundamentals gives you deeper intuition about the technology, at every layer. When compilers appeared, you no longer needed to understand assembly and registers. But knowing how assembly and registers actually work makes you better at C. When Python came along, low-level languages felt unnecessary. But understanding C's memory management is what lets you understand Python's limitations. Now LLMs write the implementation. LLMs abstract away the code. But knowing how algorithms work, even in a high-level language like Python, is exactly how you catch LLM mistakes and inefficiencies.\n\nStále platí: ak chceme nájsť „ghost in the shell“, musíme rozumieť tomu, ako ten stroj funguje. 🖖\n",
-				"date_published": "2026-03-16T08:38:20+02:00",
+				"date_published": "2026-03-16T07:38:20+01:00",
 				"url": "https://micro.zwieratko.sk/2026/03/16/m-tdium-zkladov-informatiky-v.html"
 			},
 			{
